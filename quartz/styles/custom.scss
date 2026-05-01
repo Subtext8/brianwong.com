@@ -1,3 +1,52 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+// quartz/styles/custom.scss
+:root {
+  --secondary: #00FF41; /* The classic Matrix green */
+  --tertiary: #008F11;  /* A darker green for hover states */
+  --highlight: rgba(0, 255, 65, 0.15); /* Soft green glow for highlights */
+}
+
+// Optional: Force the main text to a slightly tinted white for better contrast
+body {
+  color: #e0e0e0;
+}
+
+// Make the cursor match the new green
+.page-title::after {
+  background-color: var(--secondary) !important;
+}
+
+// 1. The Blinking Block Cursor
+.page-title {
+  &::after {
+    content: " ";
+    display: inline-block;
+    width: 1ch; // A square block
+    height: 1.2em;
+    background-color: var(--secondary);
+    margin-left: 10px;
+    vertical-align: middle;
+    animation: blink 1s step-start infinite;
+  }
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+
+// 2. Center the Content (Ellie Style)
+.center {
+  grid-column: 2 / 3; // Focuses text in the middle of the screen
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+// 3. Clean Links
+a {
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}

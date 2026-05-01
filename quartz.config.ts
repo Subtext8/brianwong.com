@@ -8,23 +8,23 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "BrianWong.Com",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "brianwong.com",
+    ignorePatterns: ["private", "Templates", ".obsidian", "Attachments"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Inter",
-        body: "Georgia",
+        header: "IBM Plex Mono",
+        body: "IBM Plex Mono",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -34,7 +34,7 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#1a73e8",
+          secondary: "#1e883a",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
@@ -44,9 +44,9 @@ const config: QuartzConfig = {
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
-          dark: "#d4d4d4",
-          secondary: "#3b82f6",
-          tertiary: "#84a59d",
+          dark: "#ebebec",
+          secondary: "#00FF41",
+          tertiary: "#ebebec",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },
