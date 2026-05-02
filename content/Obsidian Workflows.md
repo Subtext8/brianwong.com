@@ -11,6 +11,11 @@ aliases: []
 ---
 ---
 
- 
+[[Wiki Index|Kaparthy LLM Wiki]]- *Live Demonstration*
 
-In progress....stay tuned.
+This is a live demonstration of how I keep and maintain a LLM wiki using the Kaparthy method.This wiki, together with the AI prompts and schema (which is equivalent to the claude.md file), is here for you to review and adapt to your own workflow.I use Obsidian Copilot for this workflow because some wikis I keep are very personal and I want to keep the LLM local.You could use any LLM model. Most demonstrations I've seen out there use Claude Code.The choice is yours; the method is very flexible.
+
+
+----
+
+More workflows and tips to come...

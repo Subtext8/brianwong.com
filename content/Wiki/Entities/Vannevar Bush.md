@@ -9,13 +9,13 @@ tags:
 description: 1945 proposer of Memex, inspiration for associative knowledge systems.
 draft: false
 ---
-
+---
 # Vannevar Bush
 
-Vannevar Bush: Engineer/visionary.[[Sources/The Kaparthy LLM Wiki]]
+Vannevar Bush: Engineer/visionary.[[Wiki/Sources/The Kaparthy LLM Wiki]]
 
 ## Memex
-See [[Entities/Memex]] for details.
+See [[Memex]] for details.
 - Personal knowledge store with "associative trails".
 - Private, curated links between documents.
 - Precursor to hypertext/web; unsolved: maintenance (now by LLM).

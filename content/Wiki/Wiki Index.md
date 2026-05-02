@@ -14,18 +14,18 @@ Catalog of wiki pages by category.
 - [[Overview]] | High-level synthesis.
 
 ## Entities
-- [[Entities/Obsidian]] | Note-taking IDE for wiki.
-- [[Entities/Andrej Karpathy]] | LLM Wiki author.
-- [[Entities/Vannevar Bush]] | Memex inspiration.
-- [[Entities/Memex]] | Vannevar Bush's associative knowledge device (1945).
+- [[Obsidian]] | Note-taking IDE for wiki.
+- [[Andrej Karpathy]] | LLM Wiki author.
+- [[Vannevar Bush]] | Memex inspiration.
+- [[Memex]] | Vannevar Bush's associative knowledge device (1945).
 
 ## Concepts
-- [[Concepts/LLM Wiki]] | Pattern for LLM knowledge bases.
-- [[Concepts/RAG]] | Query-time retrieval (non-persistent).
-- [[Concepts/Persistent Wiki]] | Compounding wiki artifact.
+- [[LLM-Wiki]] | Pattern for LLM knowledge bases.
+- [[RAG]] | Query-time retrieval (non-persistent).
+- [[Persistent Wiki]] | Compounding wiki artifact.
 
 ## Sources
-- [[Sources/The Kaparthy LLM Wiki]] | Karpathy's foundational gist.
+- [[Wiki/Sources/The Kaparthy LLM Wiki]] | Karpathy's foundational gist.
 
 ## Comparisons & Analyses
 *(to be populated)*

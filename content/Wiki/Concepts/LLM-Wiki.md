@@ -8,10 +8,10 @@ tags:
 description: Karpathy's pattern for personal knowledge bases maintained by LLMs.
 draft: false
 ---
-
+---
 # LLM Wiki
 
-A pattern for building and maintaining personal knowledge bases using LLMs via a persistent wiki.[[Sources/The Kaparthy LLM Wiki]]
+A pattern for building and maintaining personal knowledge bases using LLMs via a persistent wiki.[[Wiki/Sources/The Kaparthy LLM Wiki]]
 
 ## Definition
 - LLM builds structured markdown wiki from raw sources.
@@ -29,6 +29,6 @@ A pattern for building and maintaining personal knowledge bases using LLMs via a
 - Automated bookkeeping (cross-refs, consistency).
 
 ## Implementation
-- Uses [[Entities/Obsidian]] as frontend/IDE.
+- Uses [[Obsidian]] as frontend/IDE.
 - Folders: Wiki/Entities/, Wiki/Concepts/, Wiki/Sources/.
 - Special: [[Wiki Index]], [[log]].

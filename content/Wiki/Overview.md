@@ -11,9 +11,9 @@ draft: false
 
 High-level synthesis of captured knowledge.
 
-## LLM Wiki Pattern[[Sources/The Kaparthy LLM Wiki]]
+## LLM Wiki Pattern[[Wiki/Sources/The Kaparthy LLM Wiki]]
 
-[[Entities/Andrej Karpathy]]'s idea: LLM maintains [[Concepts/Persistent Wiki|persistent wiki]] from raw sources, vs [[Concepts/RAG]].
+[[Andrej Karpathy]]'s idea: LLM maintains [[Persistent Wiki|persistent wiki]] from raw sources, vs [[RAG]].
 
 | Aspect          | RAG$[$^1$]               | LLM Wiki                |
 |-----------------|--------------------------|-------------------------|
@@ -22,7 +22,7 @@ High-level synthesis of captured knowledge.
 | Maintenance    | Manual/human             | LLM-automated           |
 | Scale          | Rediscovery cost grows   | Touches 10-15 pages/ingest |
 
-### In [[Entities/Obsidian]]
+### In [[Obsidian]]
 - Copilot as LLM agent.
 - Graph view, clipper, plugins.
 

@@ -75,3 +75,10 @@ a {
     box-shadow: 0 0 8px var(--secondary);
   }
 }
+
+// Folder Dates Wider
+.section-li .meta {
+  white-space: nowrap;
+  min-width: 130px;
+  padding-right: 1.5rem;
+}

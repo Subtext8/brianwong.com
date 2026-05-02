@@ -11,7 +11,7 @@ draft: false
 
 # Persistent Wiki
 
-**Core idea**: A "persistent, compounding artifact" where LLM integrates new sources into existing structure, keeping knowledge current.[[Sources/The Kaparthy LLM Wiki]]
+**Core idea**: A "persistent, compounding artifact" where LLM integrates new sources into existing structure, keeping knowledge current.[[Wiki/Sources/The Kaparthy LLM Wiki]]
 
 ## Features
 - Pre-built cross-references and synthesis.

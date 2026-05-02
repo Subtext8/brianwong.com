@@ -27,12 +27,12 @@ draft: false
 > the wiki is a persistent, compounding artifact. The cross-references are already there.
 
 ## Key Entities
-- [[Entities/Obsidian]]
-- [[Entities/Andrej Karpathy]]
-- [[Entities/Vannevar Bush]]
-- [[Entities/Memex]]
+- [[Obsidian]]
+- [[Andrej Karpathy]]
+- [[Vannevar Bush]]
+- [[Memex]]
 
 ## Key Concepts
-- [[Concepts/LLM Wiki]]
-- [[Concepts/RAG]]
-- [[Concepts/Persistent Wiki]]
+- [[LLM-Wiki]]
+- [[RAG]]
+- [[Persistent Wiki]]

@@ -11,7 +11,7 @@ draft: false
 
 # RAG
 
-**Retrieval-Augmented Generation** (RAG): LLMs retrieve relevant chunks from uploaded documents at each query.[[Sources/The Kaparthy LLM Wiki]]
+**Retrieval-Augmented Generation** (RAG): LLMs retrieve relevant chunks from uploaded documents at each query.[[Wiki/Sources/The Kaparthy LLM Wiki]]
 
 ## Characteristics
 - Knowledge rediscovered from scratch every question.
@@ -20,4 +20,4 @@ draft: false
 
 ## Contrast with LLM Wiki
 - RAG: Ephemeral retrieval.
-- [[Concepts/LLM Wiki]]: Proactive maintenance of persistent wiki.
+- [[LLM-Wiki]]: Proactive maintenance of persistent wiki.

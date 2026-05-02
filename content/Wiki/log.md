@@ -15,13 +15,13 @@ draft: false
 - Ready to ingest [[Wiki/Raw/The Kaparthy LLM Wiki]]
 
 ## [2026-05-02] ingest | The Kaparthy LLM Wiki
-- Created source page: [[Sources/The Kaparthy LLM Wiki]]
-- New concepts: [[Concepts/LLM Wiki]], [[Concepts/RAG]], [[Concepts/Persistent Wiki]]
-- New entities: [[Entities/Obsidian]], [[Entities/Andrej Karpathy]], [[Entities/Vannevar Bush]]
+- Created source page: [[Wiki/Sources/The Kaparthy LLM Wiki]]
+- New concepts: [[LLM-Wiki]], [[RAG]], [[Persistent Wiki]]
+- New entities: [[Obsidian]], [[Andrej Karpathy]], [[Vannevar Bush]]
 - Updated [[Wiki Index]]
 - Updated [[Overview]]
 
 ## [2026-05-02] query | What is Memex?
-- Created [[Entities/Memex]]
-- Updated: [[Wiki Index]], [[Entities/Vannevar Bush]], [[Sources/The Kaparthy LLM Wiki]]
+- Created [[Memex]]
+- Updated: [[Wiki Index]], [[Vannevar Bush]], [[Wiki/Sources/The Kaparthy LLM Wiki]]
 - Notes: Expanded from query gap identified in lint.

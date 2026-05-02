@@ -12,7 +12,7 @@ draft: false
 
 # Andrej Karpathy
 
-Andrej Karpathy: Prominent AI/ML figure (ex-OpenAI, Tesla), creator of "The Kaparthy LLM Wiki" gist.[[Sources/The Kaparthy LLM Wiki]]
+Andrej Karpathy: Prominent AI/ML figure (ex-OpenAI, Tesla), creator of "The Kaparthy LLM Wiki" gist.[[Wiki/Sources/The Kaparthy LLM Wiki]]
 
 ## Contributions
 - **LLM Wiki**: Idea file for LLM agents to build personal wikis.
