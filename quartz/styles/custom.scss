@@ -1,29 +1,36 @@
 @use "./base.scss";
 
-// put your custom CSS here!
-// quartz/styles/custom.scss
 :root {
-  --secondary: #00FF41; /* The classic Matrix green */
-  --tertiary: #008F11;  /* A darker green for hover states */
-  --highlight: rgba(0, 255, 65, 0.15); /* Soft green glow for highlights */
+  --secondary: #00FF41;
+  --tertiary: #008F11;
+  --highlight: rgba(0, 255, 65, 0.15);
 }
 
-// Optional: Force the main text to a slightly tinted white for better contrast
 body {
   color: #e0e0e0;
 }
 
-// Make the cursor match the new green
-.page-title::after {
-  background-color: var(--secondary) !important;
-}
-
-// 1. The Blinking Block Cursor
+// Blinking Block Cursor
 .page-title {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  &::before {
+    content: "";
+    display: block;
+    width: 50px;
+    height: 50px;
+    background: url("./static/avatar.png") no-repeat center;
+    background-size: cover;
+    border-radius: 50%;
+    border: 1px solid var(--secondary);
+    margin-bottom: 10px;
+    box-shadow: 0 0 8px var(--secondary);
+  }
   &::after {
     content: " ";
     display: inline-block;
-    width: 10px; // A square block
+    width: 10px;
     height: 20px;
     background-color: var(--secondary);
     margin-left: 1px;
@@ -36,43 +43,11 @@ body {
   50% { opacity: 0; }
 }
 
-// 2. Center the Content (Ellie Style)
-.center {
-  grid-column: 2 / 3; // Focuses text in the middle of the screen
-  max-width: 700px;
-  margin: 0 auto;
-}
-
-// 3. Clean Links
+// Clean Links
 a {
   text-decoration: none;
   &:hover {
     text-decoration: underline;
-  }
-}
-
-// quartz/styles/custom.scss
-
-.page-title {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-
-  &::before {
-    content: "";
-    display: block;
-    width: 50px;  // Adjust size to match the minimalist look
-    height: 50px;
-    background: url("./static/avatar.png") no-repeat center;
-    background-size: cover;
-    
-    // This creates the circular "Google icon" look
-    border-radius: 50%;
-    border: 1px solid var(--secondary); // Uses your Matrix Green
-    margin-bottom: 10px;
-    
-    // Optional: Add a subtle glow to match your theme
-    box-shadow: 0 0 8px var(--secondary);
   }
 }
 
