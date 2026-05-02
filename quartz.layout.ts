@@ -10,7 +10,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       Twitter: "https://x.com/brianwong",
-      "YouTube": "https://youtube.com/@brianwong",
+      "YouTube": "https://youtube.com/@brianwong", 
+      "RSS": "https://brianwong.com/index.xml",
     },
   }),
 }
