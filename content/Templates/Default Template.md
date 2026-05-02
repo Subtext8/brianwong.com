@@ -1,7 +1,9 @@
 ---
-title:
-description:
-publish: false
+aliases: []
+title: <% tp.file.title %>
+date: <% tp.date.now("YYYY-MM-DD") %>
 tags:
-date: 2026-05-01
+description: ""
+draft: true
+---
 ---

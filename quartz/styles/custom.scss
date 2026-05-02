@@ -61,8 +61,8 @@ a {
   &::before {
     content: "";
     display: block;
-    width: 35px;  // Adjust size to match the minimalist look
-    height: 35px;
+    width: 50px;  // Adjust size to match the minimalist look
+    height: 50px;
     background: url("./static/avatar.png") no-repeat center;
     background-size: cover;
     

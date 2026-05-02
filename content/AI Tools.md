@@ -1,10 +1,12 @@
 ---
+aliases: []
 title: AI Tools
-description:
-publish: true
+date: 2026-05-02
 tags:
   - tools
-date: 2026-05-01
+description: ""
+draft: false
+---
 ---
 # AI Tools I Actually Use
 

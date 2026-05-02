@@ -1,10 +1,16 @@
 ---
 title: Obsidian Workflows
-description:
-publish: false
+description: Sharing how I use Obsidian and my plugins, tools, shortcuts, and other examples.
 tags:
-  - plugins
-  - theme
-date: 2026-05-01
+  - Plugins
+  - Themes
+  - Tutorials
+date: 2026-05-02
+draft: false
+aliases: []
 ---
+---
+
+ 
+
 In progress....stay tuned.
