@@ -1,16 +1,18 @@
 ---
-aliases:
+aliases: []
 tags:
-  - "raw"
-type: "Web Clips"
-source: "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
-status: "draft"
-"create date": "2026-05-02 14:39"
-"modified date": "2026-05-02 14:39"
+  - raw
+type: Web Clips
+source: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+draft: true
+title: The Kaparthy LLM Wiki
+date: 2026-05-02
+description: ""
 ---
-# llm-wiki
+---
+---
 
-## LLM Wiki
+# LLM Wiki
 
 A pattern for building personal knowledge bases using LLMs.
 
