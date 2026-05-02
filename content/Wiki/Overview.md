@@ -26,4 +26,11 @@ High-level synthesis of captured knowledge.
 - Copilot as LLM agent.
 - Graph view, clipper, plugins.
 
+## Karpathy's Paradigms [[Andrej Karpathy - AI Ascent 2026]]
+| Paradigm | Description                  |
+|----------|------------------------------|
+| 1.0      | Explicit rules/code          |
+| 2.0      | Learned weights (data/train) |
+| **3.0**  | Prompting (LLM interpreter)  |
+
 *(Grows with ingests/queries.)*

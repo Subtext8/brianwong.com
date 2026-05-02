@@ -25,3 +25,16 @@ draft: false
 - Created [[Memex]]
 - Updated: [[Wiki Index]], [[Vannevar Bush]], [[Wiki/Sources/The Kaparthy LLM Wiki]]
 - Notes: Expanded from query gap identified in lint.
+
+## [2026-05-02] ingest | Andrej Karpathy From Vibe Coding to Agentic Engineering
+- Created source: [[Andrej Karpathy - AI Ascent 2026]]
+- New concepts: [[Vibe Coding]], [[Agentic Engineering]], [[Software 3.0]]
+- New entities: [[Eureka Labs]], [[MenuGen]]
+- Updated: [[Entities/Andrej Karpathy]], [[Wiki Index]]
+- Updated [[Overview]] (paradigms table)
+- Notes: Expands Karpathy thread; major (ties to wiki via understanding).
+
+## [2026-05-02] query | Vibe Coding vs Agentic Engineering
+- Created: [[Vibe-Coding-vs-Agentic-Engineering]]
+- Updated: [[Wiki Index]]
+- Notes: Filed query synthesis as comparison page.

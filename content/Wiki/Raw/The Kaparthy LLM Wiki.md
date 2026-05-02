@@ -4,7 +4,7 @@ tags:
   - raw
 type: Web Clips
 source: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
-draft: true
+draft: false
 title: The Kaparthy LLM Wiki
 date: 2026-05-02
 description: ""
