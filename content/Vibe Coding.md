@@ -14,4 +14,4 @@ draft: false
 
 
 
-[My First Attempt](https://decision.brianwong.com/) - This was the first project I tried on Google AI Studio using their IDE. This was a rough template from a tutorial that I customized to fit on my page. The whole point was to learn how to go through the process in the IDE, as well as publishing it to Vercel and then hosting it on my own domain. The project itself is pretty rudimentary, but it's amazing how much you can learn just by diving in and getting it out there.
+[My First Attempt](https://decision.brianwong.com/) - This was the first "vibe code" project I tried on Google AI Studio using their IDE. Just a simple application of 3 main decision making frameworks to answer the user's question. Not rocket science. But the whole point was to learn how to go through the app development process in the IDE, as well as using GitHub and Vercel to publish the app in my own domain. The project itself is pretty rudimentary, but it's amazing how much you can learn just by diving in and getting it out there.
