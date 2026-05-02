@@ -19,7 +19,7 @@ draft: false
 - **Vs RAG**: RAG rediscovers knowledge per query; wiki accumulates and keeps current.
 - **Architecture**: Raw sources → Wiki (summaries, entities, concepts) → Schema (instructions).
 - **Operations**: Ingest, Query, Lint.
-- **Navigation**: [[index]] (catalog), [[log]] (timeline).
+- **Navigation**: [[Wiki Index]] (catalog), [[log]] (timeline).
 - **Obsidian integration**: Graph view, Web Clipper, plugins like Marp/Dataview.
 - **Inspiration**: Vannevar Bush's Memex.
 
@@ -30,6 +30,7 @@ draft: false
 - [[Entities/Obsidian]]
 - [[Entities/Andrej Karpathy]]
 - [[Entities/Vannevar Bush]]
+- [[Entities/Memex]]
 
 ## Key Concepts
 - [[Concepts/LLM Wiki]]

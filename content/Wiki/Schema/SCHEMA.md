@@ -22,8 +22,8 @@ Adapted from [[Wiki/Raw/The Kaparthy LLM Wiki]] for Obsidian Copilot.
   - Wiki/Entities/
   - Wiki/Concepts/
   - Wiki/Sources/
-  - [[Wiki/index]]
-  - [[Wiki/log]]
+  - [[Wiki Index]]
+  - [[log]]
 
 - **Wiki/Schema/**: Instructions and prompts.
 
@@ -37,7 +37,7 @@ title: Title
 date: YYYY-MM-DD
 tags: [wiki, category]
 description: ""
-draft: true
+draft: false
 ---
 ```
 

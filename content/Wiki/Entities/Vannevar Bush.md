@@ -15,6 +15,7 @@ draft: false
 Vannevar Bush: Engineer/visionary.[[Sources/The Kaparthy LLM Wiki]]
 
 ## Memex
+See [[Entities/Memex]] for details.
 - Personal knowledge store with "associative trails".
 - Private, curated links between documents.
 - Precursor to hypertext/web; unsolved: maintenance (now by LLM).

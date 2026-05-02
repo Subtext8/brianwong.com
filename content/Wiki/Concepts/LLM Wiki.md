@@ -31,4 +31,4 @@ A pattern for building and maintaining personal knowledge bases using LLMs via a
 ## Implementation
 - Uses [[Entities/Obsidian]] as frontend/IDE.
 - Folders: Wiki/Entities/, Wiki/Concepts/, Wiki/Sources/.
-- Special: [[index]], [[log]].
+- Special: [[Wiki Index]], [[log]].

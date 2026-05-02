@@ -15,7 +15,7 @@ draft: true
 
 Lint the wiki:
 
-1. Read [[Wiki/index]], [[Wiki/log]]
+1. Read [[Wiki Index]], [[log]]
 
 2. Orphans: obsidianLinks orphans path:"Wiki" verbose:true
 

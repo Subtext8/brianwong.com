@@ -1,13 +1,11 @@
 ---
-aliases: []
-title: Wiki
+aliases:
+title: Wiki Index
 date: 2026-05-02
 tags:
 description: ""
-draft: true
+draft: false
 ---
----
-
 # Wiki Index
 
 Catalog of wiki pages by category.
@@ -19,6 +17,7 @@ Catalog of wiki pages by category.
 - [[Entities/Obsidian]] | Note-taking IDE for wiki.
 - [[Entities/Andrej Karpathy]] | LLM Wiki author.
 - [[Entities/Vannevar Bush]] | Memex inspiration.
+- [[Entities/Memex]] | Vannevar Bush's associative knowledge device (1945).
 
 ## Concepts
 - [[Concepts/LLM Wiki]] | Pattern for LLM knowledge bases.
