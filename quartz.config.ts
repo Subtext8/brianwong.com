@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "brianwong.com",
-    ignorePatterns: ["private", "Templates", ".obsidian", "copilot*", "Attachments"],
+    ignorePatterns: ["private", "Templates", ".obsidian", "copilot", "copilot-custom-prompts", "Attachments"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

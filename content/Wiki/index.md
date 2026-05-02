@@ -3,8 +3,9 @@ aliases: []
 title: Wiki
 date: 2026-05-02
 tags:
-description: My Personal Wiki of AI Related Knowledge
+description: ""
 draft: false
+---
 ---
 
 # Wiki Index
