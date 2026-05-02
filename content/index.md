@@ -11,7 +11,7 @@ aliases: []
 draft: false
 ---
 ---
-# My Digital Garden...
+# My Digital Garden
 
 
 Hello and welcome! If it's your first time here, I'm a Gen X entrepreneur passionate about exploring and sharing strategies, tools, and tips to make life more fun, productive, and rewarding.
