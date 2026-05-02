@@ -28,5 +28,5 @@ The Memex inspired the persistent wiki pattern: private, curated knowledge with 
 
 #### Sources
 [^1]: [[Vannevar Bush]]
-[^2]: [[Wiki Index]]
+[^2]: [[TOC]]
 [^3]: [[Wiki/Sources/The Kaparthy LLM Wiki]]

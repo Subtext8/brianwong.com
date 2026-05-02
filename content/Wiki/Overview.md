@@ -34,3 +34,15 @@ High-level synthesis of captured knowledge.
 | **3.0**  | Prompting (LLM interpreter)  |
 
 *(Grows with ingests/queries.)*
+
+## 10 Core AI Concepts (2026) [[10-AI-Concepts]]
+1. $[[Concepts/LLMs]]$
+2. Tokens & $[[Concepts/Context Window]]$
+3. $[[Concepts/AI Agents]]$
+4. $[[Concepts/MCP]]$
+5. $[[Concepts/RAG]]$
+6. $[[Concepts/Fine-tuning]]$
+7. $[[Concepts/Context Engineering]]$
+8. $[[Concepts/Reasoning Models]]$
+9. $[[Concepts/Multimodal AI]]$
+10. $[[Concepts/Mixture of Experts]]$

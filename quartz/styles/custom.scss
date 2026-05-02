@@ -51,9 +51,11 @@ a {
   }
 }
 
-// Folder Dates Wider
-.section-li .meta {
-  white-space: nowrap;
-  min-width: 130px;
-  padding-right: 1.5rem;
+// Folder Dates Wider - desktop only
+@media (min-width: 600px) {
+  .section-li .meta {
+    white-space: nowrap;
+    min-width: 130px;
+    padding-right: 1.5rem;
+  }
 }

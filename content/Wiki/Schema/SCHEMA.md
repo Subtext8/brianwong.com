@@ -22,7 +22,7 @@ Adapted from [[Wiki/Raw/The Kaparthy LLM Wiki]] for Obsidian Copilot.
   - Wiki/Entities/
   - Wiki/Concepts/
   - Wiki/Sources/
-  - [[Wiki Index]]
+  - [[TOC]]
   - [[log]]
 
 - **Wiki/Schema/**: Instructions and prompts.

@@ -19,7 +19,7 @@ draft: false
 - **Vs RAG**: RAG rediscovers knowledge per query; wiki accumulates and keeps current.
 - **Architecture**: Raw sources → Wiki (summaries, entities, concepts) → Schema (instructions).
 - **Operations**: Ingest, Query, Lint.
-- **Navigation**: [[Wiki Index]] (catalog), [[log]] (timeline).
+- **Navigation**: [[TOC]] (catalog), [[log]] (timeline).
 - **Obsidian integration**: Graph view, Web Clipper, plugins like Marp/Dataview.
 - **Inspiration**: Vannevar Bush's Memex.
 
