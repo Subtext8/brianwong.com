@@ -1,9 +1,9 @@
 ---
 aliases: []
-title: index
+title: Wiki
 date: 2026-05-02
 tags:
-description: ""
+description: My Personal Wiki of AI Related Knowledge
 draft: false
 ---
 
