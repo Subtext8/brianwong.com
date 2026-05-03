@@ -1,5 +1,5 @@
 ---
-title:
+title: Obsidian
 description: Sharing how I use Obsidian and my plugins, tools, shortcuts, and other examples.
 tags:
   - Plugins

@@ -1,6 +1,6 @@
 ---
 aliases:
-title:
+title: Tools
 date: 2026-05-02
 tags:
   - AI
