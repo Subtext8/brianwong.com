@@ -11,7 +11,9 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       Twitter: "https://x.com/brianwong",
       "YouTube": "https://youtube.com/@brianwong", 
-      "RSS": "https://brianwong.com/index.xml",
+      "LinkedIn": "https://www.linkedin.com/in/brianwong73/",
+      "RSS": "https://brianwong.com/index.xml", 
+      
     },
   }),
 }
