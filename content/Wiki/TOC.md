@@ -33,7 +33,7 @@ Catalog of wiki pages by category.
 - [[LLM-Wiki]] | Pattern for LLM knowledge bases.
 - [[RAG]] | Query-time retrieval (non-persistent).
 - [[Persistent Wiki]] | Compounding wiki artifact.
-- [[Vibe Coding]] | Trust-based AI coding.
+- [[Projects]] | Trust-based AI coding.
 - [[Agentic Engineering]] | Pro agent coordination.
 - [[Software 3.0]] | Prompting LLMs.
 - [[LLMs]] | Large Language Models (next-token prediction).

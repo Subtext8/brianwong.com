@@ -1,6 +1,6 @@
 ---
 aliases: []
-title: Vibe Code Projects
+title: Projects
 date: 2026-05-02
 tags:
   - Apps

@@ -23,32 +23,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "IBM Plex Mono",
-        body: "IBM Plex Mono",
+        header: "Roboto",
+        body: "Oxygen",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#ffffff",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#1e883a",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f4f2eb", //page background
+          lightgray: "#c1c0c0", //borders
+          gray: "#848484", //graph links
+          darkgray: "#212121", //body text
+          dark: "#000000", //header text and icons
+          secondary: "#9f68fd", // link color, current graph node
+          tertiary: "#9b9b9b", // hover states visited graph nodes
+          highlight: "rgba(116, 116, 116, 0)", //internal link background, highligted text 
+          textHighlight: "#79797900", // markdown higlighted text background
         },
         darkMode: {
-          light: "#161617",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#00FF41",
-          tertiary: "#ebebec",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#2f2f2f", // page background
+          lightgray: "#e1e1e1", //boarders
+          gray: "#646464", //graph links
+          darkgray: "#ffffffc6", //body text
+          dark: "#ebebec", // header text and icons
+          secondary: "#a388d2", //links color, current graph node
+          tertiary: "#a7a7a7", // hover states visited graph nodes
+          highlight: "rgba(44, 44, 44, 0.17)", // internal link backfround, highlighted text
+          textHighlight: "#b3aa0288", // markdown highlighted text background
         },
       },
     },

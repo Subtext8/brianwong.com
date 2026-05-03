@@ -1,5 +1,5 @@
 ---
-title: Obsidian Workflows
+title: Obsidian
 description: Sharing how I use Obsidian and my plugins, tools, shortcuts, and other examples.
 tags:
   - Plugins
@@ -18,4 +18,15 @@ This is a live demonstration of how I keep and maintain a LLM wiki using the Kap
 
 ----
 
-More workflows and tips to come...
+Obsidian Project and Task Managements
+
+---
+
+Obsidian Daily Notes and Habit Tracking
+
+---
+
+Obisidan AI Integration
+
+---
+

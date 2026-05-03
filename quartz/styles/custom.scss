@@ -1,61 +1,53 @@
 @use "./base.scss";
 
-:root {
-  --secondary: #00FF41;
-  --tertiary: #008F11;
-  --highlight: rgba(0, 255, 65, 0.15);
-}
-
-body {
-  color: #e0e0e0;
-}
-
 // Blinking Block Cursor
 .page-title {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  &::before {
-    content: "";
-    display: block;
-    width: 50px;
-    height: 50px;
-    background: url("./static/avatar.png") no-repeat center;
-    background-size: cover;
-    border-radius: 50%;
-    border: 1px solid var(--secondary);
-    margin-bottom: 10px;
-    box-shadow: 0 0 8px var(--secondary);
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+&::before {
+content: "";
+display: block;
+width: 50px;
+height: 50px;
+background: url("./static/avatar.png") no-repeat center;
+background-size: cover;
+border-radius: 50%;
+border: 1px solid var(--secondary);
+margin-bottom: 10px;
+box-shadow: 0 0 8px var(--secondary);
   }
-  &::after {
-    content: " ";
-    display: inline-block;
-    width: 10px;
-    height: 20px;
-    background-color: var(--secondary);
-    margin-left: 1px;
-    vertical-align: middle;
-    animation: blink 1s step-start infinite;
+&::after {
+content: " ";
+display: inline-block;
+width: 10px;
+height: 20px;
+background-color: var(--secondary);
+margin-left: 1px;
+vertical-align: middle;
+animation: blink 1s step-start infinite;
   }
+}
+// Title text size
+.page-title .title-text {
+  font-size: 75%;
 }
 
 @keyframes blink {
-  50% { opacity: 0; }
+50% { opacity: 0; }
 }
-
 // Clean Links
 a {
-  text-decoration: none;
-  &:hover {
-    text-decoration: underline;
+text-decoration: none;
+&:hover {
+text-decoration: underline;
   }
 }
-
 // Folder Dates Wider - desktop only
 @media (min-width: 600px) {
-  .section-li .meta {
-    white-space: nowrap;
-    min-width: 130px;
-    padding-right: 1.5rem;
+.section-li .meta {
+white-space: nowrap;
+min-width: 130px;
+padding-right: 1.5rem;
   }
 }
