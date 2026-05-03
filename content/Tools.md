@@ -1,9 +1,11 @@
 ---
-aliases: []
-title: Tools
+aliases:
+title:
 date: 2026-05-02
 tags:
-  - tools
+  - AI
+  - OpenSource
+  - Software
 description: ""
 draft: false
 ---

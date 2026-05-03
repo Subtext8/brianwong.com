@@ -1,5 +1,5 @@
 ---
-title: HELLO WORLD...
+title: Welcome
 description: Official Website of Brian Wong. A Gen X entrepreneur who enjoys exploring and sharing strategies, tools and tips for making life more fun, productive and rewarding.
 tags:
 date: 2026-05-01

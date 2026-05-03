@@ -1,6 +1,6 @@
 ---
-aliases: []
-title: Projects
+aliases:
+title:
 date: 2026-05-02
 tags:
   - Apps
