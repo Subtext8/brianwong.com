@@ -9,7 +9,7 @@ date: 2026-05-02
 draft: false
 aliases:
 ---
----
+ ---
 
 [[TOC|Kaparthy LLM Wiki]]- *Live Demonstration*
 
@@ -18,15 +18,15 @@ This is a live demonstration of how I keep and maintain a LLM wiki using the Kap
 
 ----
 
-Obsidian Project and Task Managements
+**Obsidian Project and Task Management**
 
 ---
 
-Obsidian Daily Notes and Habit Tracking
+**Obsidian Daily Notes and Habit Tracking**
 
 ---
 
-Obisidan AI Integration
+**Obsidian AI Integration**
 
 ---
 

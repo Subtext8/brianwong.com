@@ -1,13 +1,13 @@
 ---
 aliases:
-title: TOC
+title: Table of Contents
 date: 2026-05-02
 tags:
   - wiki
 description: ""
 draft: false
 ---
-
+---
 # Table of Contents
 
 Catalog of wiki pages by category.

@@ -1,55 +1,34 @@
 @use "./base.scss";
 
 
+/* Block terminal cursor after site title */
 
-// Blinking Block Cursor
 .page-title {
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-&::before {
-content: "";
-display: block;
-width: 50px;
-height: 50px;
-background: url("./static/avatar.png") no-repeat center;
-background-size: cover;
-border-radius: 50%;
-border: 1px solid var(--secondary);
-margin-bottom: 10px;
-box-shadow: 0 0 8px var(--secondary);
-  }
-&::after {
-content: " ";
-display: inline-block;
-width: 10px;
-height: 20px;
-background-color: var(--secondary);
-margin-left: 1px;
-vertical-align: middle;
-animation: blink 1s step-start infinite;
-  }
+  display: flex;
+  align-items: center;
 }
-// Title text size
-.page-title .title-text {
-  font-size: 75%;
+
+.page-title a {
+  white-space: nowrap;
+  display: inline-flex;
+  align-items: center;
+}
+
+.page-title a::after {
+  content: "";
+  display: inline-block;
+  width: 0.6em;
+  height: 1em;
+  min-width: 0.6em;
+  background-color: currentColor;
+  margin-left: 3px;
+  vertical-align: text-bottom;
+  animation: blink 1.2s step-end infinite;
+  flex-shrink: 0;
 }
 
 @keyframes blink {
-50% { opacity: 0; }
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0; }
 }
-// Clean Links
-a {
-text-decoration: none;
-&:hover {
-text-decoration: underline;
-  }
-}
-// Folder Dates Wider - desktop only
-@media (min-width: 600px) {
-.section-li .meta {
-white-space: nowrap;
-min-width: 130px;
-padding-right: 1.5rem;
-  }
-}
+
