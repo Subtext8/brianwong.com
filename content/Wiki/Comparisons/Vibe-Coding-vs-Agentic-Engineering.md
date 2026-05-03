@@ -27,4 +27,4 @@ Both terms, coined by [[Entities/Andrej Karpathy]] in his AI Ascent talk [[Andre
 #### Sources
 [^1]: [[Concepts/Vibe Coding]]  
 [^2]: [[Concepts/Agentic Engineering]]  
-[^3]: [[Andrej Karpathy - AI Ascent 2026]]
+[^3]: [[Wiki/Sources/Andrej Karpathy - AI Ascent 2026]]

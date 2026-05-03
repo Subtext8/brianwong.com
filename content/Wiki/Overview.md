@@ -26,7 +26,7 @@ High-level synthesis of captured knowledge.
 - Copilot as LLM agent.
 - Graph view, clipper, plugins.
 
-## Karpathy's Paradigms [[Andrej Karpathy - AI Ascent 2026]]
+## Karpathy's Paradigms [[Wiki/Sources/Andrej Karpathy - AI Ascent 2026]]
 | Paradigm | Description                  |
 |----------|------------------------------|
 | 1.0      | Explicit rules/code          |
@@ -35,7 +35,7 @@ High-level synthesis of captured knowledge.
 
 *(Grows with ingests/queries.)*
 
-## 10 Core AI Concepts (2026) [[10-AI-Concepts]]
+## 10 Core AI Concepts (2026) [[Wiki/Sources/10-AI-Concepts]]
 1. $[[Concepts/LLMs]]$
 2. Tokens & $[[Concepts/Context Window]]$
 3. $[[Concepts/AI Agents]]$

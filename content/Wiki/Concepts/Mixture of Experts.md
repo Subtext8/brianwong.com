@@ -2,7 +2,7 @@
 title: Mixture of Experts
 aliases: [MOE]
 tags:
-  - AI
+  - ai
   - architecture
 date: 2026-05-03
 ---
@@ -11,7 +11,8 @@ date: 2026-05-03
 
 Model divides into specialized "experts"; router activates relevant subset per input.
 
-**From** [[Sources/10-AI-Concepts]]
+**From** [[Wiki/Sources/10-AI-Concepts]]
 
 - Huge params, but efficient (speed/cost).
 - Scales intelligence without cost explosion.
+- 

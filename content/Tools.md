@@ -3,9 +3,9 @@ aliases:
 title: Tools
 date: 2026-05-02
 tags:
-  - AI
-  - OpenSource
-  - Software
+  - ai
+  - open-source
+  - software
 description: ""
 draft: false
 ---

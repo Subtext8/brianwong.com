@@ -1,7 +1,7 @@
 ---
 title: Context Engineering
 tags:
-  - AI
+  - ai
   - prompting
 date: 2026-05-03
 ---
@@ -10,7 +10,9 @@ date: 2026-05-03
 
 Design full info environment for LLM: RAG docs, history, tools (MCP), prioritization in context window.
 
-**From** [[Sources/10-AI-Concepts]]
+**From** 
+[[Wiki/Sources/10-AI-Concepts]]
 
 - Beyond prompt eng; key hiring skill 2026.
 - Output quality = context quality.
+- 

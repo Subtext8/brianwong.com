@@ -21,7 +21,7 @@ Query: QUESTION
 
 3. Synthesize answer with citations: [[Wiki/Page]]
 
-4. If gap/new insight: propose new page e.g. "Create [[Concepts/New]]?"
+4. If gap/new insight: propose new page e.g. "Create [[Wiki/Concepts/New]]?"
 
 5. Optionally: writeFile new analysis page.
 

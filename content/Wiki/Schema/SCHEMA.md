@@ -41,7 +41,7 @@ draft: false
 ---
 ```
 
-Use [[links]], bullet points, frontmatter.
+Always use full paths in all wiki links: [[Wiki/Folder/Page]] (e.g. [[Wiki/Entities/Entity]], [[Wiki/Concepts/Concept]], [[Wiki/Sources/Source]]). Use bullet points, frontmatter.
 
 ## Operations
 

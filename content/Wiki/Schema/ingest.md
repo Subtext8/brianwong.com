@@ -38,9 +38,9 @@ links, etc.
    - Update: editFile append "## From [[Sources/TITLE]]
 - facts"
 
-7. Update [[TOC]]: add - [[newpage]] | summary
+7. Update [[Wiki/TOC]]: add - [[newpage]] | summary
 
-8. Append to [[log]]:
+8. Append to [[Wiki/log]]:
    ## [DATE] ingest | TITLE
    - Updated: list pages
    - Notes: ...

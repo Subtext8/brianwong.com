@@ -36,13 +36,13 @@ video-url: https://www.youtube.com/watch?v=96jN2OCOfLs
 > "You can outsource your thinking but you can't outsource your understanding."
 
 ## Key Entities
-- [[Entities/Andrej Karpathy]]
-- [[Entities/Eureka Labs]]
-- [[Entities/MenuGen]]
+- [[Wiki/Entities/Andrej Karpathy]]
+- [[Wiki/Entities/Eureka Labs]]
+- [[Wiki/Entities/MenuGen]]
 
 ## Key Concepts
-- [[Concepts/Vibe Coding]]
-- [[Concepts/Agentic Engineering]]
-- [[Concepts/Software 3.0]]
-- [[Concepts/Verifiability]]
-- [[Concepts/Jagged Intelligence]]
+- [[Wiki/Concepts/Vibe Coding]]
+- [[Wiki/Concepts/Agentic Engineering]]
+- [[Wiki/Concepts/Software 3.0]]
+- [[Wiki/Concepts/Verifiability]]
+- [[Wiki/Concepts/Jagged Intelligence]]

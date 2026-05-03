@@ -1,13 +1,13 @@
 ---
 aliases:
-title: Table of Contents
+title: TOC
 date: 2026-05-02
 tags:
   - wiki
 description: ""
 draft: false
 ---
----
+
 # Table of Contents
 
 Catalog of wiki pages by category.
@@ -47,8 +47,8 @@ Catalog of wiki pages by category.
 
 ## Sources
 - [[Wiki/Sources/The Kaparthy LLM Wiki]] | Karpathy's foundational gist.
-- [[Andrej Karpathy - AI Ascent 2026]] | Talk on vibe coding, agentic engineering, Software 3.0.
-- [[10-AI-Concepts]] | Maddie: 10 essential AI concepts (2026).
+- [[Wiki/Sources/Andrej Karpathy - AI Ascent 2026]] | Talk on vibe coding, agentic engineering, Software 3.0.
+- [[Wiki/Sources/10-AI-Concepts]] | Maddie: 10 essential AI concepts (2026).
 
 ## Comparisons & Analyses
 - [[Vibe-Coding-vs-Agentic-Engineering]] | Synthesis table: Vibe Coding (democratizing floor) vs Agentic Engineering (professional ceiling).

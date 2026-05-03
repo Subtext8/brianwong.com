@@ -3,8 +3,8 @@ aliases:
 title: Projects
 date: 2026-05-02
 tags:
-  - Apps
-  - Showcase
+  - apps
+  - showcase
 description: These are my projects and experiments using various IDEs to build code apps.
 draft: false
 ---

@@ -5,14 +5,14 @@ date: 2026-05-02
 tags:
   - wiki
   - entity
-  - app
+  - apps
 description: "Karpathy's 'vibe-coded' app for visualizing restaurant menus from photos."
 draft: false
 ---
 
 # MenuGen
 
-[[Entities/Andrej Karpathy]]'s side project:[[Andrej Karpathy - AI Ascent 2026]]
+[[Entities/Andrej Karpathy]]'s side project:[[Wiki/Sources/Andrej Karpathy - AI Ascent 2026]]
 
 ## Description
 - Upload menu photo → OCR + image gen for dishes → re-rendered menu.

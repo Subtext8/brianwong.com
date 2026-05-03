@@ -27,7 +27,7 @@ draft: false
 - Notes: Expanded from query gap identified in lint.
 
 ## [2026-05-02] ingest | Andrej Karpathy From Vibe Coding to Agentic Engineering
-- Created source: [[Andrej Karpathy - AI Ascent 2026]]
+- Created source: [[Wiki/Sources/Andrej Karpathy - AI Ascent 2026]]
 - New concepts: [[Projects]], [[Agentic Engineering]], [[Software 3.0]]
 - New entities: [[Eureka Labs]], [[MenuGen]]
 - Updated: [[Entities/Andrej Karpathy]], [[TOC]]
@@ -40,7 +40,7 @@ draft: false
 - Notes: Filed query synthesis as comparison page.
 
 ## [2026-05-03] ingest | 10 AI Concepts
-- Created source: [[10-AI-Concepts]]
+- Created source: [[Wiki/Sources/10-AI-Concepts]]
 - New concepts: [[LLMs]], [[Tokens]], [[Context Window]], [[AI Agents]], [[MCP]], [[Fine-tuning]], [[Context Engineering]], [[Reasoning Models]], [[Multimodal AI]], [[Mixture of Experts]]
 - Updated: [[RAG]]
 - New entities: [[Maddie]], [[OpenClaw]], [[Peter Steinberger]], [[Anthropic]]

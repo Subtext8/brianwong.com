@@ -2,7 +2,7 @@
 title: Peter Steinberger
 tags:
   - people
-  - AI
+  - ai
 date: 2026-05-03
 ---
 
@@ -10,4 +10,5 @@ date: 2026-05-03
 
 OpenClaw creator; hired by OpenAI.
 
-**From** [[Sources/10-AI-Concepts]]
+**From** [[Wiki/Sources/10-AI-Concepts]]
+

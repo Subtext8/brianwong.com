@@ -15,7 +15,7 @@ draft: false
 
 Lint the wiki:
 
-1. Read [[TOC]], [[log]]
+1. Read [[Wiki/TOC]], [[Wiki/log]]
 
 2. Orphans: obsidianLinks orphans path:"Wiki" verbose:true
 
@@ -31,4 +31,4 @@ Lint the wiki:
    - New sources to resolve gaps
    - Edits for consistency
 
-Propose actions: e.g. "Delete orphan [[page]]?" or editFile.
+Propose actions: e.g. "Delete orphan [[Wiki/page]]?" or editFile.
