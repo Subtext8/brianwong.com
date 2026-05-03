@@ -1,7 +1,5 @@
 ---
 aliases:
-  - Wiki Index
-  - index
 title: TOC
 date: 2026-05-02
 tags:
@@ -18,7 +16,7 @@ Catalog of wiki pages by category.
 - [[Overview]] | High-level synthesis.
 
 ## Entities
-- [[Obsidian]] | Note-taking IDE for wiki.
+- [[Wiki/Entities/Obsidian]] | Note-taking IDE for wiki.
 - [[Andrej Karpathy]] | LLM Wiki author.
 - [[Vannevar Bush]] | Memex inspiration.
 - [[Memex]] | Vannevar Bush's associative knowledge device (1945).

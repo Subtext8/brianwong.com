@@ -22,7 +22,7 @@ High-level synthesis of captured knowledge.
 | Maintenance    | Manual/human             | LLM-automated           |
 | Scale          | Rediscovery cost grows   | Touches 10-15 pages/ingest |
 
-### In [[Obsidian]]
+### In [[Wiki/Entities/Obsidian]]
 - Copilot as LLM agent.
 - Graph view, clipper, plugins.
 

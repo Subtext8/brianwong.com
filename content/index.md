@@ -8,7 +8,7 @@ draft: false
 ---
 ---
 
-🗄️[[TOC|LLM-Wiki]]   |   🛠️[[Tools]]   |   📂[[Projects]]   |   ℹ️[[About]] 
+🗄️[[TOC|LLM-Wiki]]   |   🛠️[[Tools]]   |   📂[[Projects]]   |   ℹ️ [[Start Here|About]] 
 
 ---
 # My Digital Garden
@@ -31,4 +31,4 @@ Let's explore together—what's your first AI adventure? 🚀
 
 ---
 
-🗄️[[TOC|LLM-Wiki]]   |   🛠️[[Tools]]   |   📂[[Projects]]   |   ℹ️[[About]] 
+🗄️[[TOC|LLM-Wiki]]   |   🛠️[[Tools]]   |   📂[[Projects]]   |   ℹ️ [[Start Here|About]] 

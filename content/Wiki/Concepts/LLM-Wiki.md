@@ -29,6 +29,6 @@ A pattern for building and maintaining personal knowledge bases using LLMs via a
 - Automated bookkeeping (cross-refs, consistency).
 
 ## Implementation
-- Uses [[Obsidian]] as frontend/IDE.
+- Uses [[Wiki/Entities/Obsidian]] as frontend/IDE.
 - Folders: Wiki/Entities/, Wiki/Concepts/, Wiki/Sources/.
 - Special: [[TOC]], [[log]].

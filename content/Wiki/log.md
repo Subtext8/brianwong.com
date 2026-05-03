@@ -17,7 +17,7 @@ draft: false
 ## [2026-05-02] ingest | The Kaparthy LLM Wiki
 - Created source page: [[Wiki/Sources/The Kaparthy LLM Wiki]]
 - New concepts: [[LLM-Wiki]], [[RAG]], [[Persistent Wiki]]
-- New entities: [[Obsidian]], [[Andrej Karpathy]], [[Vannevar Bush]]
+- New entities: [[Wiki/Entities/Obsidian]], [[Andrej Karpathy]], [[Vannevar Bush]]
 - Updated [[TOC]]
 - Updated [[Overview]]
 

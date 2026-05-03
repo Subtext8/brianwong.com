@@ -27,7 +27,7 @@ draft: false
 > the wiki is a persistent, compounding artifact. The cross-references are already there.
 
 ## Key Entities
-- [[Obsidian]]
+- [[Wiki/Entities/Obsidian]]
 - [[Andrej Karpathy]]
 - [[Vannevar Bush]]
 - [[Memex]]
