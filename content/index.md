@@ -24,7 +24,7 @@ AI is ultimately a tool—like a hammer. It can build a house or, in the wrong h
 
 Let's explore together—what's your first AI adventure? 🚀
 
-![[brian-profile.png|150]]
+![[brian-profile.png|120]]
 
 From @Brian Wong
 
