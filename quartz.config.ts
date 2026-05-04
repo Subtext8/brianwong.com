@@ -14,6 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "google",
+      tagId: "G-CRSL2V4ELV",
     },
     locale: "en-US",
     baseUrl: "brianwong.com",
