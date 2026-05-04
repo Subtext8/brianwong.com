@@ -110,4 +110,4 @@ You are engaged in **Foundational Architecture**. You operate at the academic or
 Know where you are. There is so much to learn and explore in AI that it sometimes feels daunting. Having a roadmap to know where you are and to enjoy the journey is key. Learn something new every day and you will just get better and better, using AI to enhance every aspect of your life. Or don't use it if you are so inclined. The choice is yours.
 
 ---
-➡️ **Next:** Explore the [[TOC|LLM Wiki]]
+➡️ **Next:** Explore the [[Obsidian| LLM Wiki]]
