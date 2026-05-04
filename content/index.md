@@ -30,4 +30,4 @@ From @Brian Wong
 
 ---
 
-🗄️[[TOC|LLM-Wiki]]   |   🛠️[[Tools]]   |   📂[[Projects]]   |   ℹ️ [[Start Here|About]] 
+🗄️[[TOC|LLM-Wiki]]   |   🛠️[[Tools]]   |   📂[[Projects]]   |   ℹ️ [[About|About]] 

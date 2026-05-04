@@ -17,16 +17,8 @@ This is a live demonstration of how I keep and maintain a LLM wiki using the Kap
 
 
 ----
+**Related:**
+[[LLM-Wiki]]
+[[Wiki/Sources/The Kaparthy LLM Wiki|The Kaparthy LLM Wiki]]
 
-**Obsidian Project and Task Management**
-
----
-
-**Obsidian Daily Notes and Habit Tracking**
-
----
-
-**Obsidian AI Integration**
-
----
 

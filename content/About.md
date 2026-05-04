@@ -1,6 +1,6 @@
 ---
 aliases: []
-title: Start Here
+title: About
 date: 2026-05-02
 tags:
 description: ""
@@ -10,7 +10,8 @@ comments: false
 ---
  
 > [!note]
->    Work in progress...
+>    Work in progress...maybe. Who cares about the author anyway?
+>    
 
 
 ---
