@@ -26,7 +26,7 @@ Let's explore together—what's your first AI adventure? 🚀
 
 ![[brian-profile.png|150]]
 
-@Brian Wong
+From @Brian Wong
 
 ---
 
