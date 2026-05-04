@@ -15,41 +15,99 @@ How are you using AI? Can you see your current proficiency on the map below?
 
 ![[ai-roadmap.png]]
 
-## Level 0: The Non-Adopter
-**Identity:** The Sovereignty/Stability Guardian.
-This level represents the choice to remain outside the AI ecosystem. Whether driven by deep technical security concerns (The Privacy Guardian), a desire to maintain institutional stability (The Institutional Protector), or general tech-disinterest, these users prioritize manual, analog, or deterministic workflows.
+This roadmap is designed to help you identify your current position in the AI landscape by looking at your mindset, the primary skills you use, and—most importantly—the specific tools in your daily stack.
 
-## Level 1: The Passive Beneficiary
-**Identity:** The Utility Consumer.
-Users at this level consume AI through "invisible" utility. They rely on tools that provide automated value without requiring the user to interact with the underlying model. AI is treated as a feature that "just works" within a standard application.
+---
 
-## Level 2: The Conversationalist
-**Identity:** The Digital Companion.
-This stage marks the beginning of active engagement. AI is used as a web-based destination for brainstorming, drafting correspondence, and general tutoring. The primary skill here is natural language inquiry in a public, cloud-based environment.
+## Level 0: The Guardian
 
-## Level 3: The Multimodal User
-**Identity:** The Creative Producer.
-A shift toward high-fidelity creative production using specialized engines. These users leverage AI for imagery, voice synthesis, or complex layout design. They are comfortable trading personal data and subscription fees for professional-grade creative assets.
+At this level, the focus is on **Analog Sovereignty**. You likely prioritize data privacy, physical security, and institutional stability over digital speed. You may feel that manual verification is more reliable than algorithmic output.
 
-## Level 4: The Knowledge Architect
-**Identity:** The Personal Intelligence Specialist.
-A pivotal stage focused on **Retrieval-Augmented Generation (RAG)**. Users at this level ground AI in their private "Second Brain" using **Obsidian**. The goal is to turn private research logs and personal notes into an active memory system while maintaining local-first privacy.
+- **Mindset:** Privacy First, Zero Trust.
+    
+- **Core Skill:** Manual data verification and physical security protocols.
+    
+- **Tools & Apps:** Fountain pens, paper journals (like Leuchtturm), local Excel (offline), physical filing systems, offline calculators, typewriters, and air-gapped hardware.
+    
 
-## Level 5: The Vibe Coder
-**Identity:** The Native Builder.
-AI is used as an integrated development environment to build functional software. By using AI-native IDEs, "Vibe Coders" create and deploy apps using natural language. This level focuses on computational logic, version control via **GitHub**, and rapid prototyping.
+## Level 1: The Consumer
 
-## Level 6: The Expert Orchestrator
-**Identity:** The Autonomous Sovereign.
-The pinnacle of personal leverage and automation. Utilizing high-bandwidth local hardware—such as a **64GB Mac mini**—and autonomous frameworks, these users run agents 24/7. These agents manage complex tasks locally and securely, completely independent of the cloud.
+You are a **Passive Beneficiary** of AI. You use AI when it is embedded into the apps you already own, often treating it as a background convenience that "just works" without needing complex instructions.
 
-## Level 7: The Ecosystem Architect
-**Identity:** The Foundational Legacy.
-This level represents the founders and pioneers who build the foundations of AI. They define the core models, safety protocols, and educational masterclasses that make the other six levels possible. They scale intelligence itself for the global community.
+- **Mindset:** Utility focus; AI as an invisible assistant.
+    
+- **Core Skill:** Interpreting automated outputs and managing "invisible" AI toggles.
+    
+- **Tools & Apps:** **Wisper Flow**, Grammarly, Zoom AI summaries, Microsoft Teams AI, Google Photos Magic Eraser, Siri, Google Assistant, and basic auto-correct features.
+    
+
+## Level 2: The Companion
+
+As a **Conversationalist**, you actively seek out AI for Q&A and general assistance. You have moved beyond passive use and now engage in direct dialogue with cloud-based LLMs.
+
+- **Mindset:** Curiosity; AI as a destination for knowledge retrieval.
+    
+- **Core Skill:** Foundational prompting and identifying AI "hallucinations".
+    
+- **Tools & Apps:** ChatGPT (Web/Free), Gemini, Claude.ai, Perplexity Search, Poe, Microsoft Copilot, Apple Intelligence, Pi, Meta AI, and You.com.
+    
+
+## Level 3: The Creator
+
+You focus on **Media Orchestration**. You leverage AI to generate high-fidelity visual, audio, or video assets, often trading subscription fees for professional-grade creative leverage.
+
+- **Mindset:** Creative leverage; trading data for rapid media output.
+    
+- **Core Skill:** Descriptive prompting for visual consistency and voice/video synthesis.
+    
+- **Tools & Apps:** Midjourney, ElevenLabs, Sora, Canva AI, Suno, HeyGen, CapCut AI, DALL-E 3, Runway, Adobe Firefly, Udio, and Pika Labs.
+    
+
+## Level 4: The Architect
+
+You have transitioned into **Context Engineering**. You don't just "chat" with AI; you ground it in your own private data by building a "Second Brain" or a personal knowledge management system.
+
+- **Mindset:** Intelligence; turning static notes into an active memory system.
+    
+- **Core Skill:** Managing **Retrieval-Augmented Generation (RAG)** and curating personal data.
+    
+- **Tools & Apps:** **Obsidian** (using Copilot or Smart Connections), NotebookLM, AnythingLLM, Readwise Reader, Raycast AI, Fabric, Mem, MyMind, and Heptabase.
+    
+
+## Level 5: The Builder
+
+You practice **Natural Language Development** (often called "Vibe Coding"). You use AI to bypass traditional coding syntax, allowing you to build, debug, and deploy custom software through plain language.
+
+- **Mindset:** Autonomy; building custom software without deep coding knowledge.
+    
+- **Core Skill:** Systems thinking, AI-driven debugging, and **GitHub** repository management.
+    
+- **Tools & Apps:** **Cursor**, Windsurf, GitHub, Vercel, Replit Agent, v0.dev, Bolt.new, Lovable.dev, Claude Artifacts, and MacWhisper (Pro).
+    
+
+## Level 6: The Orchestrator
+
+You focus on **Infrastructure Ops**. You have moved away from the cloud to run a private, autonomous digital workforce on your own hardware, independent of external providers.
+
+- **Mindset:** Mastery; running a secure and autonomous digital workforce offline.
+    
+- **Core Skill:** Local resource optimization, self-hosting LLMs, and agent workflow design.
+    
+- **Tools & Apps:** **OpenClaw**, Ollama, LM Studio, CrewAI, LangGraph, local Llama/Mistral models, Syncthing, Pinokio, LocalAI, and Flowise.
+    
+
+## Level 7: The Pioneer
+
+You are engaged in **Foundational Architecture**. You operate at the academic or industrial frontier, shaping the core models and ethical standards that the rest of the spectrum relies upon.
+
+- **Mindset:** Legacy; shaping the future of global AI infrastructure.
+    
+- **Core Skill:** Training neural networks and defining global safety protocols.
+    
+- **Tools & Apps:** PyTorch, Triton, LLM Kernels, Hugging Face, CUDA/Metal Shaders, Jax, OpenAI Labs, Anthropic Labs, and Google DeepMind.
 
 # Summary
 Know where you are. There is so much to learn and explore in AI that it sometimes feels daunting. Having a roadmap to know where you are and to enjoy the journey is key. Learn something new every day and you will just get better and better, using AI to enhance every aspect of your life. Or don't use it if you are so inclined. The choice is yours.
 
 ---
-**Related:**
-[[Wiki/Sources/10-AI-Concepts|10-AI-Concepts]]
+➡️ **Next:** Explore the [[TOC|LLM Wiki]]

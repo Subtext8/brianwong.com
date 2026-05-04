@@ -1,6 +1,51 @@
 @use "./base.scss";
 
 
+// /* Page title with logo + cursor */
+// .page-title {
+//   display: flex;
+//   flex-direction: column;  /* stacks logo above title */
+//   align-items: flex-start;
+//   gap: 0.5rem;
+
+//   &::before {
+//     content: "";
+//     display: block;
+//     width: 200px;
+//     height: 180px;
+//     background-image: url("/static/brian-logo.png");
+//     background-size: contain;
+//     background-repeat: no-repeat;
+//     background-position: center left;
+//   }
+// }
+
+// .page-title a {
+//   white-space: nowrap;
+//   display: inline-flex;
+//   align-items: center;
+// }
+
+// .page-title a::after {
+//   content: "";
+//   display: inline-block;
+//   width: 0.6em;
+//   height: 1em;
+//   min-width: 0.6em;
+//   background-color: currentColor;
+//   margin-left: 3px;
+//   vertical-align: text-bottom;
+//   animation: blink 1.2s step-end infinite;
+//   flex-shrink: 0;
+// }
+
+// @keyframes blink {
+//   0%, 100% { opacity: 1; }
+//   50%       { opacity: 0; }
+// }
+
+
+
 /* Block terminal cursor after site title */
 
 .page-title {
@@ -39,9 +84,9 @@ blockquote {
   border-left-color: #e59a19;
 }
 
-blockquote p {
-  color: #e59a19;
-}
+// blockquote p {
+//   color: #e59a19;
+// }
 
 // /* bold text */
 // article strong, 
