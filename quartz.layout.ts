@@ -6,7 +6,26 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
 ],
-  afterBody: [],
+
+  afterBody: [
+  // Component.Comments({
+  //   provider: 'giscus',
+  //   options: {
+  //     repo: 'Subtext8/brianwong.com',
+  //     repoId: 'R_kgDOSR9QQw',          // Your actual ID from giscus.app
+  //     category: 'Announcements',
+  //     categoryId: 'DIC_kwDOSR9QQ84C8SX6',    // Your actual ID from giscus.app
+  //     mapping: 'pathname',
+  //     strict: true,
+  //     reactionsEnabled: true,
+  //     inputPosition: 'top',
+  //     themeUrl: "https://brianwong.com/static/giscus", 
+  //     lightTheme: "light", 
+  //     darkTheme: "dark",
+  //   }
+  // }),
+],
+
   footer: Component.Footer({
     links: {
       Twitter: "https://x.com/brianwong",
