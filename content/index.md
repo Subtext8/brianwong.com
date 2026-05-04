@@ -13,7 +13,7 @@ draft: false
 Hello and welcome! If it's your first time here, I'm a Gen X entrepreneur passionate about exploring and sharing strategies, tools, and tips to make life more fun, productive, and rewarding.
 
 It's 2026, and we're in the full swing of the AI age. This site chronicles my personal journey integrating AI into everyday life, with all the wins, lessons, and discoveries along the way. Think of it as my evolving **digital garden**: a living space that grows with every new insight. Stay tuned as it blooms!
-##  Start AI <u>Now</u>
+##  Start AI Now
 
 If you're new to AI, my advice is simple: **jump in today**. The pace is blistering—don't wait to "get ready," because by the time you do, it'll have leaped ahead. The best way to learn AI? **Use It!** Experiment, play, build. Those who embrace it will thrive; those who don't will find themselves at a disadvantage.
 

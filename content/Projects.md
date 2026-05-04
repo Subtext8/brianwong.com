@@ -29,12 +29,9 @@ We’ve entered a remarkable era where the boundary between having an idea and b
 ---
 ## Work In Progress:
 
-**Local Sovereign LLM Project**: I'm currently working on the project to host a frontier-level LLM on a local server. The bottleneck presently is that there is a 6-8 week wait for an Apple Mac Mini with 64GB of RAM. This is due to the global shortage in SDRAM.
+**Local Sovereign LLM Project**: I'm currently working on the project to host a frontier-level LLM on my own local server. The project is presently delayed as there is a 6-8 week wait for a custom-spec Apple Mac Mini with 64GB of RAM. This is due to the global shortage in SDRAM. In any case, the idea is to build a frontier-level LLM locally. and to make that accessible through my phone, laptop, and tablet from anywhere in the world. Stay tuned for updates on this exciting project.
 
 
 
 ---
-**Related:**
-[[Obsidian]]
-[[Tools]]
-[[AI Roadmap]]
+➡️ **Next:**  My AI [[Tools]]

@@ -15,3 +15,4 @@ comments: false
 
 
 ---
+COO | Corporate Finance | MLM | University of New South Wales | Catcha.com | Scuba Diving | Sky Diving | Lotus | Guitar | Piano | Holistic Nutrition | Colon Hydrotherapy | FISAF Trainer | CFA Level 2 | Woodworking | Aquaponic Farming | SGR Program | Mastery University | Anthony Robbins | Bob Proctor | Mind Valley | Aikido | Snowboarding | Father | Electric Skateboarding | Vedantic Philosophy | NLP | Personal Development | DIY | App Development | YouTube | Meditation | Artificial Intelligence | Blockchain | Investment | Video Production | Website Development | eCommerce | Tennis | Ikigai |
