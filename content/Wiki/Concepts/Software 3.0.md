@@ -12,7 +12,7 @@ draft: false
 
 # Software 3.0
 
-[[Entities/Andrej Karpathy]]:[[Andrej Karpathy - AI Ascent 2026]]
+[[Wiki/Entities/Andrej Karpathy|Andrej Karpathy]]:[[Wiki/Sources/Andrej Karpathy - AI Ascent 2026|Karpathy AI Ascent 2026]]
 
 ## Paradigms
 | Version | Programming |

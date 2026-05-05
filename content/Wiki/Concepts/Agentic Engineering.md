@@ -12,7 +12,7 @@ draft: false
 
 # Agentic Engineering
 
-[[Entities/Andrej Karpathy]] term:[[Andrej Karpathy - AI Ascent 2026]]
+[[Wiki/Entities/Andrej Karpathy|Andrej Karpathy]] term:[[Wiki/Sources/Andrej Karpathy - AI Ascent 2026|Karpathy AI Ascent 2026]]
 
 ## Definition
 - Manage "spiky/stochastic" agents for speed without sacrificing quality/security.

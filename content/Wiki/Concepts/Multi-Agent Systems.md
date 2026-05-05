@@ -9,5 +9,5 @@ tags:
 
 Teams of specialized agents collaborating.
 
-## From [[Sources/The Artificial Intelligence Industry 2026]]
+## From [[Wiki/Sources/The Artificial Intelligence Industry 2026|The Artificial Intelligence Industry 2026]]
 - Vs super-agent; research/code/QA teams; cross-vendor protocols; 15% autonomous decisions (2028).

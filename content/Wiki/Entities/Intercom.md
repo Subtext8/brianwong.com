@@ -9,5 +9,5 @@ tags:
 
 Customer messaging platform.
 
-## From [[Sources/The Artificial Intelligence Industry 2026]]
+## From [[Wiki/Sources/The Artificial Intelligence Industry 2026|Sources/The Artificial Intelligence Industry 2026]]
 - Fin AI agent: Voice support -48% latency (OpenAI Realtime API); 53% end-to-end resolution.

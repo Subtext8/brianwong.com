@@ -7,5 +7,5 @@ tags: [prompt-engineering]
 
 Marketing/CRM platform; sponsors AI resources.
 
-##From [[Sources/Ways-to-Use-AI-in-Daily-Life|Ways-to-Use-AI-in-Daily-Life]]
+##From [[Wiki/Sources/Ways-to-Use-AI-in-Daily-Life|Ways-to-Use-AI-in-Daily-Life]]
 - Free Prompting QuickStart Guide (with video creator).

@@ -8,5 +8,5 @@ aliases: [n8n]
 
 No-code tool for designing agentic workflows.
 
-## From [[Sources/Ways-to-Use-AI-in-Daily-Life|Ways-to-Use-AI-in-Daily-Life]]
+## From [[Wiki/Sources/Ways-to-Use-AI-in-Daily-Life|Ways-to-Use-AI-in-Daily-Life]]
 - Agent workflows (no-code).

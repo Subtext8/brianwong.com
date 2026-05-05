@@ -8,5 +8,5 @@ tags:
 
 2026 shift: AI spending from training to large-scale deployment/inference.
 
-## From [[Sources/The Artificial Intelligence Industry 2026]]
+## From [[Wiki/Sources/The Artificial Intelligence Industry 2026|The Artificial Intelligence Industry 2026]]
 - Exploding inference costs despite 280x token drop; hybrid infra response.

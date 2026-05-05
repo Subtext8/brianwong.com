@@ -50,4 +50,4 @@ Video lists **101 ways** grouped by category, from simple (image ID) to advanced
 - Eisenhower matrix, first principles thinking, answers leveling, Socratic method
 
 #### Sources
-[^1]: [[Wiki/Raw/Ways To Use AI In Your Daily Life]]
+[^1]: [[Wiki/Raw/Ways To Use AI In Your Daily Life| Ways To Use AI In Your Daily Life]]

@@ -10,5 +10,5 @@ date: 2026-05-03
 
 OpenClaw creator; hired by OpenAI.
 
-**From** [[Wiki/Sources/10-AI-Concepts]]
+**From** [[Wiki/Sources/10-AI-Concepts|10-AI-Concepts]]
 

@@ -14,5 +14,5 @@ Universal adapter for AI agents/tools: Standardizes connections to external serv
 
 **From** [[Wiki/Sources/10-AI-Concepts]]
 
-- Open protocol by [[Entities/Anthropic]], donated to [[Entities/Agentic AI Foundation]] (Linux Foundation).
+- Open protocol by [[Wiki/Entities/Anthropic|Anthropic]], donated to [[Wiki/Entities/Agentic AI Foundation|Agentic AI Foundation]] (Linux Foundation).
 - 

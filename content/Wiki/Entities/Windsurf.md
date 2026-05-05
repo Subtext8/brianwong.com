@@ -7,5 +7,5 @@ tags: [vibe-coding]
 
 Vibe coding tool (intermediate-advanced).
 
-## From [[Sources/Ways-to-Use-AI-in-Daily-Life|Ways-to-Use-AI-in-Daily-Life]]
+## From [[Wiki/Sources/Ways-to-Use-AI-in-Daily-Life|Ways-to-Use-AI-in-Daily-Life]]
 - Vibe code apps/automations (personal use, coding background).

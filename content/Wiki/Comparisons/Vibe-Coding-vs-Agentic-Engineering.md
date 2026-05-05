@@ -11,9 +11,9 @@ draft: false
 
 # Vibe Coding vs Agentic Engineering
 
-Both terms, coined by [[Entities/Andrej Karpathy]] in his AI Ascent talk [[Andrej Karpathy - AI Ascent 2026]], describe phases in AI-assisted programming under [[Concepts/Software 3.0]] (prompting LLMs as interpreters). Vibe Coding marks the democratizing shift where anyone can build via iterative prompting; Agentic Engineering elevates it to professional discipline.[^1][^2]
+Both terms, coined by [[Wiki/Entities/Andrej Karpathy|Andrej Karpathy]] in his AI Ascent talk [[Wiki/Sources/Andrej Karpathy - AI Ascent 2026|Karpathy AI Ascent]], describe phases in AI-assisted programming under [[Wiki/Concepts/Software 3.0|Software 3.0]] (prompting LLMs as interpreters). Vibe Coding marks the democratizing shift where anyone can build via iterative prompting; Agentic Engineering elevates it to professional discipline.[^1][^2]
 
-| Aspect              | Vibe Coding$[^1$]                          | Agentic Engineering$[^2$]                          |
+| Aspect              | Vibe Coding[^1]                          | Agentic Engineering[^2]                          |
 |---------------------|------------------------------------------|--------------------------------------------------|
 | **Focus**           | Raise floor: Accessible to all           | Raise ceiling: Pro speed/quality (>10x engineers)|
 | **Workflow**        | Trust AI chunks; no edits; side projects | Coordinate "spiky" agents; human specs/oversight |
@@ -25,6 +25,6 @@ Both terms, coined by [[Entities/Andrej Karpathy]] in his AI Ascent talk [[Andre
 **Synthesis**: Vibe Coding unlocks creation for non-coders (e.g. your projects); Agentic Engineering scales pros amid LLM jaggedness (strong in verifiable code, needs human direction). Complements: Start with vibe, mature to agentic.[^1][^2]
 
 #### Sources
-[^1]: [[Concepts/Vibe Coding]]  
-[^2]: [[Concepts/Agentic Engineering]]  
+[^1]: [[Wiki/Concepts/Vibe Coding|Vibe Coding]]  
+[^2]: [[Wiki/Concepts/Agentic Engineering|Agentic Engineering]]  
 [^3]: [[Wiki/Sources/Andrej Karpathy - AI Ascent 2026]]

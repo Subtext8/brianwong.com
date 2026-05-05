@@ -20,7 +20,7 @@ draft: false
 
 ## Contrast with LLM Wiki
 - RAG: Ephemeral retrieval.
-- [[LLM-Wiki]]: Proactive maintenance of persistent wiki.
+- [[Wiki/Concepts/LLM-Wiki|LLM Wiki]]: Proactive maintenance of persistent wiki.
 
 ## From [[Wiki/Sources/10-AI-Concepts]]
 - Fixes LLM knowledge cutoff & hallucinations: Retrieve relevant docs (vector DB) into prompt for grounded answers.

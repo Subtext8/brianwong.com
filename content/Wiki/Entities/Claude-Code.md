@@ -7,6 +7,6 @@ tags: [vibe-coding, Claude]
 
 Claude's coding interface/tool for vibe coding.
 
-## From [[Sources/Ways-to-Use-AI-in-Daily-Life|Ways-to-Use-AI-in-Daily-Life]]
+## From [[Wiki/Sources/Ways-to-Use-AI-in-Daily-Life|Ways-to-Use-AI-in-Daily-Life]]
 - Vibe code (advanced).
 - Presentations, dashboards, interactive.

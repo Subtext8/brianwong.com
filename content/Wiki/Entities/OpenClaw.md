@@ -9,10 +9,10 @@ date: 2026-05-03
 
 # OpenClaw
 
-Open-source AI agent by [[Peter Steinberger]]; viral (60k GitHub stars in 72h).
+Open-source AI agent by [[Wiki/Entities/Peter Steinberger|Peter Steinberger]]; viral (60k GitHub stars in 72h).
 
-**From** [[Wiki/Sources/10-AI-Concepts]]
+**From** [[Wiki/Sources/10-AI-Concepts|10-AI-Concepts]]
 
 - Local, connects WhatsApp/Slack/email/calendar; triages inbox, debugs code, etc.
-- Hired by [[OpenAI]] for personal agents.
+- Hired by [[Wiki/Entities/OpenAI|OpenAI]] for personal agents.
 - 

@@ -10,7 +10,7 @@ date: 2026-05-03
 
 Further train pre-trained LLM on specialized dataset to adapt behavior (tone, style, format).
 
-**From** [[Wiki/Sources/10-AI-Concepts]]
+**From** [[Wiki/Sources/10-AI-Concepts|10-AI-Concepts]]
 
 - RAG vs Fine-tune: Facts (RAG) vs behavior (fine-tune). Can combine.
 - 

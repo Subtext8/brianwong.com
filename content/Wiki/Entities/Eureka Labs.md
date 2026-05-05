@@ -12,7 +12,7 @@ draft: false
 
 # Eureka Labs
 
-Founded by [[Entities/Andrej Karpathy]].[[Wiki/Sources/Andrej Karpathy - AI Ascent 2026]]
+Founded by [[Wiki/Entities/Andrej Karpathy|Andrej Karpathy]].[[Wiki/Sources/Andrej Karpathy - AI Ascent 2026|Andrej Karpathy - AI Ascent 2026]]
 
 ## Context
 - Karpathy's current venture post-OpenAI/Tesla.

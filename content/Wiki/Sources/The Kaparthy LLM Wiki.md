@@ -11,7 +11,7 @@ draft: false
 
 # The Kaparthy LLM Wiki
 
-**Original source**: [[Wiki/Raw/The Kaparthy LLM Wiki]]  
+**Original source**: [[Wiki/Raw/The Kaparthy LLM Wiki| The Kaparthy LLM Wiki]]  
 **URL**: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 
 ## Summary
@@ -27,7 +27,7 @@ draft: false
 > the wiki is a persistent, compounding artifact. The cross-references are already there.
 
 ## Key Entities
-- [[Wiki/Entities/Obsidian]]
+- [[Wiki/Entities/Obsidian| Obsidian]]
 - [[Andrej Karpathy]]
 - [[Vannevar Bush]]
 - [[Memex]]

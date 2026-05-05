@@ -10,7 +10,7 @@ draft: false
 
 # Memex
 
-Memex: Device proposed by [[Vannevar Bush]] in his 1945 essay "As We May Think$^[1]$.
+Memex: Device proposed by [[Wiki/Entities/Vannevar Bush|Vannevar Bush]] in his 1945 essay "As We May Think$^[1]$.
 
 ## Description
 - Desk-sized mechanical-electronic device.
@@ -21,12 +21,12 @@ Memex: Device proposed by [[Vannevar Bush]] in his 1945 essay "As We May Think$^
 ## Historical Context
 - Post-WWII vision for knowledge workers.
 - Influenced hypertext (Ted Nelson, Douglas Engelbart), World Wide Web (Tim Berners-Lee).
-- Unsolved problem: Maintaining trails/connections – now automated by LLMs in [[LLM-Wiki]].[^3]
+- Unsolved problem: Maintaining trails/connections – now automated by LLMs in [[Wiki/LLM-Wiki|LLM-Wiki]].[^3]
 
 ## Relation to LLM Wiki
 The Memex inspired the persistent wiki pattern: private, curated knowledge with valuable connections, maintained by AI instead of manual labor.[^3]
 
 #### Sources
-[^1]: [[Vannevar Bush]]
-[^2]: [[TOC]]
-[^3]: [[Wiki/Sources/The Kaparthy LLM Wiki]]
+[^1]: [[Wiki/Entities/Vannevar Bush|Vannevar Bush]]
+[^2]: [[Wiki/TOC|TOC]]
+[^3]: [[Wiki/Sources/The Kaparthy LLM Wiki|The Kaparthy LLM Wiki]]

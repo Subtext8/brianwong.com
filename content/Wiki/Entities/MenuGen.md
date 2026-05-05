@@ -12,7 +12,7 @@ draft: false
 
 # MenuGen
 
-[[Entities/Andrej Karpathy]]'s side project:[[Wiki/Sources/Andrej Karpathy - AI Ascent 2026]]
+[[Wiki/Entities/Andrej Karpathy|Andrej Karpathy]]'s side project:[[Wiki/Sources/Andrej Karpathy - AI Ascent 2026|Andrej Karpathy - AI Ascent 2026]]
 
 ## Description
 - Upload menu photo → OCR + image gen for dishes → re-rendered menu.

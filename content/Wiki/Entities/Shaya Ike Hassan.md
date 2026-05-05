@@ -9,5 +9,5 @@ tags:
 
 Blogger on AI/tech industry analysis.
 
-## From [[Sources/The Artificial Intelligence Industry 2026]]
+## From [[Wiki/Sources/The Artificial Intelligence Industry 2026|Sources/The Artificial Intelligence Industry 2026]]
 - Author of "The Artificial Intelligence Industry 2026" (Industry Analysis series).

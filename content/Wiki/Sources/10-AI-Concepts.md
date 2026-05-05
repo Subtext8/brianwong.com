@@ -14,7 +14,7 @@ draft: false
 
 # 10 AI Concepts
 
-**Original source**: [[Wiki/Raw/10-AI-Concepts]]
+**Original source**: [[Wiki/Raw/10-AI-Concepts| 10-AI-Concepts]]
 
 **Video**: https://www.youtube.com/watch?v=5DtjQrROUzY?start=108
 
@@ -34,28 +34,28 @@ draft: false
 > To sum up, the 10 AI concepts you need to know are LLMs, token and context windows, rag, fine-tuning, AI agents, MCP, context engineering, reasoning models, multimodal AI, and mixture of experts.
 
 ## Key Entities
-- [[Wiki/Entities/Maddie]]
-- [[Wiki/Entities/HubSpot]]
-- [[Wiki/Entities/ChatGPT]]
-- [[Wiki/Entities/Claude]]
-- [[Wiki/Entities/Gemini]]
-- [[Wiki/Entities/OpenClaw]]
-- [[Wiki/Entities/Peter Steinberger]]
-- [[Wiki/Entities/Anthropic]]
-- [[Wiki/Entities/Agentic AI Foundation]]
-- [[Wiki/Entities/Linux Foundation]]
-- [[Wiki/Entities/OpenAI]]
-- [[Wiki/Entities/DeepSeek]]
+- [[Wiki/Entities/Maddie| Maddie]]
+- [[Wiki/Entities/HubSpot| HubSpot]]
+- [[Wiki/Entities/ChatGPT| ChatGPT]]
+- [[Wiki/Entities/Claude| Claude]]
+- [[Wiki/Entities/Gemini| Gemini]]
+- [[Wiki/Entities/OpenClaw| OpenClaw]]
+- [[Wiki/Entities/Peter Steinberger| Peter Steinberger]]
+- [[Wiki/Entities/Anthropic| Anthropic]]
+- [[Wiki/Entities/Agentic AI Foundation| Agentic AI Foundation]]
+- [[Wiki/Entities/Linux Foundation| Linux Foundation]]
+- [[Wiki/Entities/OpenAI| OpenAI]]
+- [[Wiki/Entities/DeepSeek| DeepSeek]]
 
 ## Key Concepts
-- [[Wiki/Concepts/LLMs]]
-- [[Wiki/Concepts/Tokens]]
-- [[Wiki/Concepts/Context Window]]
-- [[Wiki/Concepts/AI Agents]]
-- [[Wiki/Concepts/MCP]]
-- [[Wiki/Concepts/RAG]]
-- [[Wiki/Concepts/Fine-tuning]]
-- [[Wiki/Concepts/Context Engineering]]
-- [[Wiki/Concepts/Reasoning Models]]
-- [[Wiki/Concepts/Multimodal AI]]
-- [[Wiki/Concepts/Mixture of Experts]]
+- [[Wiki/Concepts/LLMs| LLMs]]
+- [[Wiki/Concepts/Tokens| Tokens]]
+- [[Wiki/Concepts/Context Window| Context Window]]
+- [[Wiki/Concepts/AI Agents| AI Agents]]
+- [[Wiki/Concepts/MCP| MCP]]
+- [[Wiki/Concepts/RAG| RAG]]
+- [[Wiki/Concepts/Fine-tuning| Fine-tuning]]
+- [[Wiki/Concepts/Context Engineering| Context Engineering]]
+- [[Wiki/Concepts/Reasoning Models| Reasoning Models]]
+- [[Wiki/Concepts/Multimodal AI| Multimodal AI]]
+- [[Wiki/Concepts/Mixture of Experts| Mixture of Experts]]

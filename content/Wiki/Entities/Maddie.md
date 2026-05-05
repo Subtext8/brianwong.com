@@ -10,7 +10,7 @@ date: 2026-05-03
 
 Senior software engineer (ex-Google, Amazon, IBM, Microsoft). AI educator.
 
-**From** [[Wiki/Sources/10-AI-Concepts]]
+**From** [[Wiki/Sources/10-AI-Concepts|10-AI-Concepts]]
 
 - Video: 10 AI concepts for 2026.
 - 

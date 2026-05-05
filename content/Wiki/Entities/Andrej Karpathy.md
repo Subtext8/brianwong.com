@@ -12,13 +12,13 @@ draft: false
 
 # Andrej Karpathy
 
-Andrej Karpathy: Prominent AI/ML figure (ex-OpenAI, Tesla), creator of "The Kaparthy LLM Wiki" gist.[[Wiki/Sources/The Kaparthy LLM Wiki]]
+Andrej Karpathy: Prominent AI/ML figure (ex-OpenAI, Tesla), creator of "The Kaparthy LLM Wiki" gist.[[Wiki/Sources/The Kaparthy LLM Wiki|The Kaparthy LLM Wiki]]
 
 ## Contributions
 - **LLM Wiki**: Idea file for LLM agents to build personal wikis.
 - Designed for copy-paste to agents like Codex, Claude Code.
 
-## From [[Wiki/Sources/Andrej Karpathy - AI Ascent 2026]]
+## From [[Wiki/Sources/Andrej Karpathy - AI Ascent 2026|Andrej Karpathy - AI Ascent 2026]]
 - Founder of Eureka Labs (AI education).
 - Coined "vibe coding" (trust AI for code without edits); contrasts with "agentic engineering" (pro coordination of agents for quality).
 - Software 3.0: LLMs as programmable computer via prompts/context.

@@ -26,5 +26,5 @@ Your notes reference him as an entrepreneur with frameworks like the "4-part mil
 [^3]: [Wikitia Page](https://wikitia.com/wiki/Alex_Hormozi)  
 [^4]: [Instagram Profile](https://www.instagram.com/hormozi/)  
 [^5]: [IMDb Bio](https://www.imdb.com/name/nm14344566/bio/)
-## From [[Sources/Ways-to-Use-AI-in-Daily-Life|Ways-to-Use-AI-in-Daily-Life]]
+## From [[Wiki/Sources/Ways-to-Use-AI-in-Daily-Life|Ways-to-Use-AI-in-Daily-Life]]
 - Use framework to evaluate startup ideas.

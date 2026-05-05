@@ -11,7 +11,7 @@ date: 2026-05-03
 
 Model divides into specialized "experts"; router activates relevant subset per input.
 
-**From** [[Wiki/Sources/10-AI-Concepts]]
+**From** [[Wiki/Sources/10-AI-Concepts|10-AI-Concepts]]
 
 - Huge params, but efficient (speed/cost).
 - Scales intelligence without cost explosion.

@@ -59,7 +59,7 @@ draft: false
 - Others: IDIRA Framework, Share of AI Conversation, Anti-Fragile/Self-Healing, AI Sovereignty, Skills Earthquake.
 
 #### Sources
-[^1]: [[Wiki/Raw/The Artificial Intelligence Industry 2026]]
+[^1]: [[Wiki/Raw/The Artificial Intelligence Industry 2026| The Artificial Intelligence Industry 2026]]
 [^2]: Research Nester AI Platforms
 [^4]: Gartner/CRN AI Markets
 [... full 38 cited in raw note]

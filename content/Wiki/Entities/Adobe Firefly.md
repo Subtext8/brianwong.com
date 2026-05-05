@@ -9,6 +9,6 @@ tags:
 
 Generative AI for creative assets.
 
-## From [[Sources/The Artificial Intelligence Industry 2026]]
+## From [[Wiki/Sources/The Artificial Intelligence Industry 2026|Sources/The Artificial Intelligence Industry 2026]]
 - L’Oréal CREAITECH: higher quality content, brand security.
 - 22B generated assets (Apr 2025); 61% revenue from enterprise.

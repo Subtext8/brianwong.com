@@ -11,7 +11,7 @@ draft: false
 ---
 # LLM Wiki
 
-A pattern for building and maintaining personal knowledge bases using LLMs via a persistent wiki.[[Wiki/Sources/The Kaparthy LLM Wiki]]
+A pattern for building and maintaining personal knowledge bases using LLMs via a persistent wiki.[[Wiki/Sources/The Kaparthy LLM Wiki|The Kaparthy LLM Wiki]]
 
 ## Definition
 - LLM builds structured markdown wiki from raw sources.

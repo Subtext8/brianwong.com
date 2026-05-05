@@ -10,7 +10,7 @@ date: 2026-05-03
 
 LLMs trained to think step-by-step (chain-of-thought) before answering.
 
-**From** [[Wiki/Sources/10-AI-Concepts]]
+**From** [[Wiki/Sources/10-AI-Concepts|10-AI-Concepts]]
 
 - "Thinking..." = internal reasoning.
 - Ex: OpenAI o1 series, DeepSeek.
