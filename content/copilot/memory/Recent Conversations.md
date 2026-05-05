@@ -9,3 +9,7 @@
 ## Standardizing Wiki Links to Full Paths
 **Time:** 2026-05-05 14:03
 **Summary:** User repeatedly instructs AI to use edit tool for converting internal links in Wiki/Entities notes, log.md, and TOC.md to full paths with aliases (e.g., [[Andrej Karpathy]] → [[Wiki/Entities/Andrej Karpathy|Andrej Karpathy]]). AI edits files like CMA CGM.md, L’Oréal.md, Intercom.md, and others, adding Wiki/ prefixes (Entities, Concepts, Sources) and aliases while preserving content. Changes accepted and verified in Obsidian graph view; wiki links now fully qualified.
+
+## Wiki Ingestion and Link Fixes
+**Time:** 2026-05-05 18:39
+**Summary:** User instructed AI to add full-path aliases to internal links in Wiki notes, ingest [[Wiki/Raw/10-AI-Concepts|10-AI-Concepts]] and [[Wiki/Raw/Ways To Use AI In Your Daily Life|Ways To Use AI In Your Daily Life]], fix blank DeepSeek note, and correct log formatting. AI created entity pages (e.g., ChatGPT, Claude, Cursor, Madness, OpenAI Agents SDK) and concept pages (e.g., Prompt Engineering), updated sources/log/TOC with aliases and facts from transcripts. All changes accepted; wiki now lint-consistent and graph-ready.
