@@ -19,8 +19,8 @@ Video lists **101 ways** grouped by category, from simple (image ID) to advanced
 ## Summary
 - **Tool Categories**:
   - Chatbots: [[ChatGPT]], [[Gemini]], [[Claude]]
-  - Agents/Apps: [[Perplexity]], [[NotebookLM]], [[n8n]], [[OpenAI agents SDK]], Madness
-  - Vibe Coding: [[Cursor]], Windsurf, [[Claude Code]], Lovable, Vault, Replit, Firebase Studio
+  - Agents/Apps: [[Wiki/Entities/Perplexity|Perplexity]], [[Wiki/Entities/NotebookLM|NotebookLM]], [[Wiki/Entities/n8n|n8n]], [[Wiki/Entities/OpenAI-Agents-SDK|OpenAI Agents SDK]], [[Wiki/Entities/Madness|Madness]]
+  - Vibe Coding: [[Wiki/Entities/Cursor|Cursor]], [[Wiki/Entities/Windsurf|Windsurf]], [[Wiki/Entities/Claude-Code|Claude Code]], [[Wiki/Entities/Lovable|Lovable]], [[Wiki/Entities/Vault|Vault]], [[Wiki/Entities/Replit|Replit]], [[Wiki/Entities/Firebase-Studio|Firebase Studio]]
 - **Categories &amp; Examples**:
   | Category | Key Use Cases |
   |----------|---------------|
@@ -44,7 +44,7 @@ Video lists **101 ways** grouped by category, from simple (image ID) to advanced
 - [[Alex Hormozi]] (framework)
 
 ## Key Concepts
-- [[prompt engineering]]
+- [[Wiki/Concepts/Prompt Engineering|Prompt Engineering]]
 - [[Vibe Coding]]
 - [[AI Agents]]
 - Eisenhower matrix, first principles thinking, answers leveling, Socratic method
