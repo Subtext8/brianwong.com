@@ -46,3 +46,10 @@ draft: false
 - New entities: [[Maddie]], [[OpenClaw]], [[Peter Steinberger]], [[Anthropic]]
 - Updated: [[TOC]]
 - Notes: Major core concepts expansion from Maddie video.
+
+## [2026-05-05] ingest | Ways to Use AI in Daily Life
+- Created: [[Wiki/Sources/Ways-to-Use-AI-in-Daily-Life]]
+- New Entities: [[Perplexity]], [[NotebookLM]], [[n8n]], [[Google-AI-Studio]], [[Windsurf]], [[Claude-Code]], [[HubSpot]], [[Alex-Hormozi]]
+- Appended to: [[Vibe Coding]], [[AI Agents]]
+- Updated: [[TOC]]
+- Notes: YouTube video (101 use cases); practical expansion on tools/applications.

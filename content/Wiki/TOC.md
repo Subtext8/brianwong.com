@@ -49,6 +49,7 @@ Catalog of wiki pages by category.
 - [[Wiki/Sources/The Kaparthy LLM Wiki]] | Karpathy's foundational gist.
 - [[Wiki/Sources/Andrej Karpathy - AI Ascent 2026]] | Talk on vibe coding, agentic engineering, Software 3.0.
 - [[Wiki/Sources/10-AI-Concepts]] | Maddie: 10 essential AI concepts (2026).
+- [[Wiki/Sources/Ways-to-Use-AI-in-Daily-Life]] | 101 practical AI use cases across daily life areas (productivity, work, learning, etc.).
 
 ## Comparisons & Analyses
 - [[Vibe-Coding-vs-Agentic-Engineering]] | Synthesis table: Vibe Coding (democratizing floor) vs Agentic Engineering (professional ceiling).
