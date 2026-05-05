@@ -61,3 +61,8 @@ draft: false
 - Appended to: [[Wiki/Entities/Anthropic|Anthropic]], [[Wiki/Concepts/AI Agents|AI Agents]], [[Wiki/Concepts/Multimodal AI|Multimodal AI]]
 - Updated: [[Wiki/TOC|TOC]], [[Wiki/Overview|Overview]]
 - Notes: Major 2026 AI industry analysis (blog); markets ($2T+), trends (Inference Economics, MAS), cases (Anthropic/Snowflake, etc.).
+
+## [2026-05-05] ingest | 10-AI-Concepts (update)
+- Created missing entities: [[Wiki/Entities/ChatGPT|ChatGPT]], [[Wiki/Entities/Claude|Claude]], [[Wiki/Entities/Gemini|Gemini]], [[Wiki/Entities/OpenAI|OpenAI]], [[Wiki/Entities/Agentic AI Foundation|Agentic AI Foundation]], [[Wiki/Entities/Linux Foundation|Linux Foundation]]
+- Updated: [[Wiki/TOC|TOC]]
+- Notes: Re-processing raw transcript to resolve unresolved links and complete entity coverage from Maddie video.
