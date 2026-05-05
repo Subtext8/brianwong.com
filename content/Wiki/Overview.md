@@ -56,4 +56,21 @@ High-level synthesis of captured knowledge.
 [[Wiki/Sources/Ways-to-Use-AI-in-Daily-Life|Ways-to-Use-AI-in-Daily-Life]]
 - **101 Use Cases**: Grouped by productivity, work, daily life, finances, learning, career, relationships.
 - **Key Insight**: Foundational tools (ChatGPT/Claude/Perplexity) + prompt engineering > specialized subs.
-- **Progression**: Simple (image ID) → advanced (vibe coding, agents: n8n, workflows).
+- **Progression**: Simple (image ID) → advanced ([[Vibe Coding|vibe coding]], [[Concepts/AI Agents|agents]]: n8n, workflows).
+
+- **AI Industry 2026** [[Wiki/Sources/The Artificial Intelligence Industry 2026|AI Industry 2026]]: Global spending >$2.02T (+36%); infra software +83%.[^2]
+
+| Segment      | 2026 ($B) | Growth                  |
+|--------------|-----------|-------------------------|
+| AI Infra SW  | 230       | 83%                     |
+| App SW       | 270       | 57%                     |
+| Platforms    | 29.3      | 14.2% CAGR to 2035      |
+
+  **Key Trends**:
+  - [[Concepts/Inference Economics|Inference Economics]] (deployment focus)
+  - [[Concepts/Great Divergence|Great Divergence]] (physical industries lead)
+  - [[Concepts/Agentic Commerce|Agentic Commerce]] (40% B2B agents EOY)
+  - [[Concepts/Multi-Agent Systems|MAS]], [[Concepts/Physical AI|Physical AI]], [[Concepts/Multimodal AI|Multimodal Reasoning]]
+  - [[Concepts/EU AI Act|EU AI Act]] (Aug 2026 full enforcement)
+
+[^2]: [[Wiki/Sources/The Artificial Intelligence Industry 2026]]
