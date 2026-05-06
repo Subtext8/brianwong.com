@@ -11,15 +11,19 @@ aliases:
 ---
  ---
 
-# My Public LLM Wiki
+# What is Obsidian?
+Obsidian is a powerful note-taking app that lives entirely on your computer as plain Markdown files, ensuring your knowledge is yours forever with no cloud dependencies or subscription traps. You can effortlessly create interconnected notes to securely capture and organize your ideas, thoughts, and insights, while leveraging its renowned journaling capabilities—benefits universally embraced by creators and thinkers for reflection, productivity, and personal growth. Best of all, it's completely free and open-source, so there's no reason not to download it today and start building your second brain. Get [Obsidian](https://obsidian.md/) here.
+
+## My Public LLM Wiki
 [[TOC|Kaparthy LLM Wiki]]- *Live Demonstration*
 
-This is a live demonstration of how I keep and maintain a LLM wiki using the Kaparthy LLM Wiki method. This wiki, together with the AI prompts and schema (which is equivalent to the claude.md file), is here for you to review and adapt to your own workflow. I use Obsidian Copilot for this workflow because some wikis I keep are very personal and I want to keep the LLM local. You could use any LLM model. Most demonstrations I've seen out there use Claude Code. The choice is yours; the method is very flexible.
+This is a live demonstration of how I use Obisidian to create and maintain a LLM wiki using the Kaparthy LLM Wiki method. This wiki, together with the AI prompts and schema (which is equivalent to the claude.md file), is here for you to review and adapt to your own workflow. I use Obsidian Copilot plugin for this workflow because some Wiki content I keep are very personal and I want to keep the LLM local. You could use any LLM model. Most demonstrations I've seen out there use Claude Code. The choice is yours; the method is very flexible.
+
 ## What is LLM Wiki?
-This entire wiki is managed by an LLM based on a particular set of instructions under the schema folder. All the articles or videos I find relevant to my AI study are saved in the Raw folder. Once the LLM "ingests" the source, it is saved as a processed document under the Source folder. An overview is created and updated in the Overview folder. The LLM then extracts every entity and concept into individual atomic nodes. When I query the findings and find new connections, it creates new concepts, entities, and comparisons. All activities of the LLM are recorded in the log. The table of contents organizes all the notes within the wiki. Over time, the Wiki grows and updates itself and creates new connections and insights depending on what is ingested.
+This entire wiki is managed by an LLM based on a particular set of instructions under the schema folder. All the articles or videos I find relevant to my AI study are saved in the Raw folder. Once the LLM "ingests" the source, it is saved as a processed document under the Source folder. An overview is created and updated in the Overview folder. The LLM then extracts every entity and concept into individual atomic nodes. When I query the findings and find new connections, it creates new concepts, entities, and comparisons. All activities of the LLM are recorded in the log. The table of contents organizes all the notes within the wiki. Over time, the Wiki grows and updates itself and creates new connections and insights depending on what is ingested. Learn more about the [[Wiki/Sources/The Kaparthy LLM Wiki|The Kaparthy LLM Wiki]] Idea.
 
 # My Plugins
-Here is a list of the most used plugins that I installed in my personal vault in alphabetical order.
+If you're already using Obsidian, then let me share a list of the most used plugins that I installed in my personal vault in alphabetical order.
 
 ## Chord Sheets
 The **Chord Sheets** plugin by olvidalo ([GitHub](https://github.com/olvidalo/obsidian-chord-sheets)) allows you to create beautiful chord sheets for songs right in your Obsidian notes. It supports chord diagrams, transposition, multiple notations (e.g., English, German), lyrics integration, and PDF export for printing or sharing. Copy and paste from most chord and tab websites and you get perfectly rendered chord diagrams. I use this to save all the song sheets that I want to play and learn.

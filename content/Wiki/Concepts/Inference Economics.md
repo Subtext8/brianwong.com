@@ -47,3 +47,5 @@ related:
 > [!note] Connections
 > - Challenges: [[Wiki/Concepts/EU AI Act Enterprise Compliance|EU AI Act Compliance]] (auditable).
 > - Opportunities: [[Wiki/Concepts/Data Sovereignty|Data Sovereignty]] (geopatriation).
+
+
