@@ -76,6 +76,11 @@ Catalog of wiki pages by category.
 - [[Wiki/Concepts/Share of AI Conversation|Share of AI Conversation]] | Brand visibility in AI answers.
 - [[Wiki/Concepts/Self-Healing Workflows|Self-Healing Workflows]] | Anti-fragile agents (adapt on failure).
 - [[Wiki/Concepts/EU AI Act Enterprise Compliance|EU AI Act Enterprise Compliance]] | Strategies for 2026 fines/compliance.
+- [[Wiki/Concepts/Knowledge Graphs|Knowledge Graphs]] | Labeled graphs symbiotic w/ AI; testbed, GDS, explicit reps.
+- [[Wiki/Concepts/Graph Data Science|Graph Data Science]] | Graphs + ML/queries for relational insights.
+- [[Wiki/Concepts/Semantic Networks|Semantic Networks]] | Early KG form.
+- [[Wiki/Concepts/Description Logics|Description Logics]] | Formal reps for reasoning.
+- [[Wiki/Concepts/KG Relationships|KG Relationships]] | Typed edges (supports, contradicts, etc.) for KG design.
 
 ## Sources
 - [[Wiki/Sources/The Kaparthy LLM Wiki|The Kaparthy LLM Wiki]] | Karpathy's foundational gist.
@@ -83,6 +88,8 @@ Catalog of wiki pages by category.
 - [[Wiki/Sources/10-AI-Concepts|10-AI-Concepts]] | Maddie: 10 essential AI concepts (2026).
 - [[Wiki/Sources/Ways-to-Use-AI-in-Daily-Life|Ways-to-Use-AI-in-Daily-Life]] | 101 practical AI use cases across daily life areas (productivity, work, learning, etc.).
 - [[Wiki/Sources/The Artificial Intelligence Industry 2026|The Artificial Intelligence Industry 2026]] | 2026 AI industry: Inference Economics, $2T spending, agentic shift, EU AI Act.
+- [[Wiki/Sources/How Knowledge Graphs Relate to AI|How Knowledge Graphs Relate to AI]] | Stanford CS520: KG-AI symbiosis (testbed/GDS/long-term explicit reps).
+- [[Wiki/Sources/KG Edge Types Diagram|KG Edge Types Diagram]] | Diagram of 10 KG relationship types (supports, part_of, etc.).
 
 ## Comparisons & Analyses
 - [[Wiki/Comparisons/Vibe-Coding-vs-Agentic-Engineering|Vibe-Coding-vs-Agentic-Engineering]] | Vibe vs Agentic table. | Synthesis table: Vibe Coding (democratizing floor) vs Agentic Engineering (professional ceiling).

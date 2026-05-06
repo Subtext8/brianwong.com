@@ -93,3 +93,16 @@ draft: false
 
 ## [2026-05-06] query-synthesis | Inference Economics
 - Expanded [[Wiki/Concepts/Inference Economics|Inference Economics]] (tables, ties).
+
+## [2026-05-07] ingest | How Knowledge Graphs Relate to AI
+- Created: [[Wiki/Sources/How Knowledge Graphs Relate to AI|How Knowledge Graphs Relate to AI]]
+- New Concepts (12): [[Wiki/Concepts/Knowledge Graphs|Knowledge Graphs]], [[Wiki/Concepts/Graph Data Science|Graph Data Science]], [[Wiki/Concepts/Semantic Networks|Semantic Networks]], [[Wiki/Concepts/Description Logics|Description Logics]], [[Wiki/Concepts/Knowledge Representation|Knowledge Representation]], [[Wiki/Concepts/Entity Extraction|Entity Extraction]], [[Wiki/Concepts/Relation Extraction|Relation Extraction]], [[Wiki/Concepts/Schema Mapping|Schema Mapping]], [[Wiki/Concepts/Entity Linking|Entity Linking]], [[Wiki/Concepts/Feature Engineering|Feature Engineering]], [[Wiki/Concepts/Knowledge Engineering|Knowledge Engineering]], [[Wiki/Concepts/Commonsense Reasoning|Commonsense Reasoning]]
+- New Entities: [[Wiki/Entities/WordNet|WordNet]]
+- Updated: [[Wiki/TOC|TOC]], [[Wiki/Overview|Overview]]
+- Notes: Stanford CS520 ch10; KG-AI intersections (symbiotic testbed, emerging GDS, explicit reps for explainable AI vision). Major foundational expansion.
+
+## [2026-05-07] ingest | KG Edge Types Diagram & KG Relationships
+- Confirmed/ingested source: [[Wiki/Sources/KG Edge Types Diagram|KG Edge Types Diagram]] (visual schema of 10 typed edges w/ colors/weights).
+- Concept: [[Wiki/Concepts/KG Relationships|KG Relationships]] (table/examples).
+- Updated: [[Wiki/TOC|TOC]]
+- Notes: Diagram from conversation; building blocks for KG design, ties to Graph Data Science/explainable AI.

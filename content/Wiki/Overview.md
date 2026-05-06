@@ -78,4 +78,15 @@ High-level synthesis of captured knowledge.
   - [[Wiki/Concepts/Three-Tier Hybrid Models|Three-Tier Hybrid Models]] (cloud/edge/on-prem infra)
   - [[Wiki/Concepts/EU AI Act Enterprise Compliance|EU AI Act Enterprise Compliance]]: 7% fines → rebuild stacks.
 
+## Knowledge Graphs & AI Foundations
+[[Wiki/Sources/How Knowledge Graphs Relate to AI|Stanford CS520 2020]]
+
+| Theme | KG Role |
+|-------|---------|
+| **Current AI** | Symbiotic: Powers apps (search/recommenders); built by NLP/ML (extraction/linking/inference). |
+| **Graph Data Science** | Graphs + feature eng/ML for relational predictions (finance etc.). |
+| **Long-term Vision** | Explicit reps (semantic nets → description logics) for reasoning, explainability, commonsense (vs black-box LMs). |
+
+Key: [[Wiki/Concepts/Knowledge Graphs|KGs]] essential; [[Wiki/Entities/WordNet|WordNet]] example explainability.
+
 [^2]: [[Wiki/Sources/The Artificial Intelligence Industry 2026]]
