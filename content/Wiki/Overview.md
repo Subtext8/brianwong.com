@@ -67,7 +67,7 @@ High-level synthesis of captured knowledge.
 | Platforms    | 29.3      | 14.2% CAGR to 2035      |
 
   **Key Trends**:
-  - [[Wiki/Concepts/Inference Economics|Inference Economics]] (deployment focus)
+  - [[Wiki/Concepts/Inference Economics|Inference Economics]] (deployment > training; +83% infra)
   - [[Wiki/Concepts/Great Divergence|Great Divergence]] (physical industries lead)
   - [[Wiki/Concepts/Agentic Commerce|Agentic Commerce]] (40% B2B agents EOY)
   - [[Wiki/Concepts/Multi-Agent Systems|Multi-Agent Systems]], [[Wiki/Concepts/Physical AI|Physical AI]], [[Concepts/Multimodal AI|Multimodal Reasoning]]

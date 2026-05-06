@@ -28,7 +28,7 @@ draft: false
 
 ## [2026-05-02] ingest | Andrej Karpathy From Vibe Coding to Agentic Engineering
 - Created source: [[Wiki/Sources/Andrej Karpathy - AI Ascent 2026|Andrej Karpathy - AI Ascent 2026]]
-- New concepts: [[Wiki/Concepts/Projects|Projects]], [[Wiki/Concepts/Agentic Engineering|Agentic Engineering]], [[Wiki/Concepts/Software 3.0|Software 3.0]]
+- New concepts: [[|Projects]], [[Wiki/Concepts/Agentic Engineering|Agentic Engineering]], [[Wiki/Concepts/Software 3.0|Software 3.0]]
 - New entities: [[Wiki/Entities/Eureka Labs|Eureka Labs]], [[Wiki/Entities/MenuGen|MenuGen]]
 - Updated: [[Wiki/Entities/Andrej Karpathy|Andrej Karpathy]], [[Wiki/TOC|TOC]]
 - Updated [[Wiki/Overview|Overview]] (paradigms table)
@@ -86,7 +86,10 @@ draft: false
 - Created: [[Wiki/Concepts/Data Sovereignty]], [[Wiki/Concepts/Skills Earthquake]].
 - Fixed: TOC Comparisons path, Projects stub.
 
-## [2026-05-06] lint | Links/Unresolved
-- Orphans: 0; Unresolved: 24 (Wiki ~3).
-- Short links: Ways-to-Use full paths fixed (Claude Code, Google AI Studio).
-- No contradictions/stale/YAML issues.
+## [2026-05-06] lint | Full Scan
+- Orphans: 0; Unresolved: 24 (ex.).
+- No contradictions/stale; YAML/tables valid.
+- Suggestions: Minor stub delete.
+
+## [2026-05-06] query-synthesis | Inference Economics
+- Expanded [[Wiki/Concepts/Inference Economics|Inference Economics]] (tables, ties).

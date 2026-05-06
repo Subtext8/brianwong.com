@@ -65,7 +65,7 @@ Catalog of wiki pages by category.
 - [[Wiki/Concepts/Agentic Commerce|Agentic Commerce]] | Agentic commerce shift.
 - [[Wiki/Concepts/EU AI Act|EU AI Act]] | 2026 regulations.
 - [[Wiki/Concepts/Great Divergence|Great Divergence]] | Vertical AI adoption split.
-- [[Wiki/Concepts/Inference Economics|Inference Economics]] | Deployment economics.
+- [[Wiki/Concepts/Inference Economics|Inference Economics]] | 2026 shift to production inference costs.
 - [[Wiki/Concepts/Multi-Agent Systems|Multi-Agent Systems]] | Agent teams.
 - [[Wiki/Concepts/Physical AI|Physical AI]] | AI + robotics.
 - [[Wiki/Concepts/Anthropic Economic Index|Anthropic Economic Index]] | Geo/demo AI usage index (AUI: Singapore 4.6x).

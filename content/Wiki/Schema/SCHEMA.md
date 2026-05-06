@@ -42,7 +42,7 @@ related: ["[[Wiki/Page1]]", "[[Wiki/Page2]]"]  # Optional: Quoted wikilink strin
 ---
 ```
 
-Always use full paths with optional aliases in all wiki links: [[Wiki/Folder/Page|Page]] (e.g. [[Wiki/Entities/Entity|Entity]], [[Wiki/Concepts/Concept|Concept]], [[Wiki/Sources/Source|Source]]). Use bullet points, frontmatter.
+Always use full paths with optional aliases in all wiki links: [[Wiki/Folder/Page|Page]] (e.g. [[Wiki/Entities/Entity|Entity]], [[Wiki/Concepts/Concept|Concept]], [[Wiki/Sources/Source|Source]]). **Tables:** Escape pipe in aliases: [[Wiki/Folder/Page\|Page]] (single backslash; renders single cell). e.g. | [[Wiki/Entities/Anthropic\|Anthropic]] | ASL-3 safety. | Use bullet points, frontmatter.
 
 ## Operations
 
