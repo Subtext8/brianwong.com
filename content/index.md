@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Welcome to BrianWong.com
 description: Official Website of Brian Wong. A Gen X entrepreneur who enjoys exploring and sharing strategies, tools and tips for making life more fun, productive and rewarding.
 tags:
 date: 2026-05-04
@@ -10,12 +10,12 @@ draft: false
 
 # 🪴 My Digital Garden 
 
-Hello and welcome! If it's your first time here, I'm a Gen X entrepreneur passionate about exploring and sharing strategies, tools, and tips to make life more fun, productive, and rewarding.
+Hello and welcome! If it's your first time here, I'm just a regular guy that's passionate about exploring and sharing strategies, tools, and tips to make life more fun, productive, and rewarding.
 
-It's 2026, and we're in the full swing of the AI age. This site chronicles my personal journey integrating AI into everyday life, with all the wins, lessons, and discoveries along the way. Think of it as my evolving **digital garden**: a living space that grows with every new insight. Stay tuned as it blooms!
+It's 2026, and we're in the blossoming Age of Artificial Intelligence. This site chronicles my personal journey attempting to integrate AI into everyday life, with all the wins, lessons, and discoveries along the way. Think of it as my evolving **digital garden**: a living space that grows with every new insight.
 ##  Start AI Now
 
-If you're new to AI, my advice is simple: **jump in today**. The pace is blistering—don't wait to "get ready," because by the time you do, it'll have leaped ahead. The best way to learn AI? **Use It!** Experiment, play, build. Those who embrace it will thrive; those who don't will find themselves at a disadvantage.
+If you're new to AI, my advice is simple: **jump in today**. The pace is blistering—don't wait to "see how it goes", because by the time you do, it'll have leaped ahead to the next step and it will be ever more difficult to get started. The best way to learn AI? **Use It!** Experiment, play, build. Grow and learn as AI adoption and standards grows. Like it or not, AI will become ubiquitous before you know it. Just like the Internet did. 
 
 As NVIDIA CEO **Jensen Huang** aptly puts it: 
 > **"You won't lose your job to AI. You'll lose your job to someone who uses AI."**

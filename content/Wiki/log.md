@@ -66,3 +66,27 @@ draft: false
 - Created missing entities: [[Wiki/Entities/ChatGPT|ChatGPT]], [[Wiki/Entities/Claude|Claude]], [[Wiki/Entities/Gemini|Gemini]], [[Wiki/Entities/OpenAI|OpenAI]], [[Wiki/Entities/Agentic AI Foundation|Agentic AI Foundation]], [[Wiki/Entities/Linux Foundation|Linux Foundation]]
 - Updated: [[Wiki/TOC|TOC]]
 - Notes: Re-processing raw transcript to resolve unresolved links and complete entity coverage from Maddie video.
+
+## [2026-05-06] re-ingest/gap-fill | The Artificial Intelligence Industry 2026
+- Created 7 concepts ([[Wiki/Concepts/Anthropic Economic Index|Anthropic Economic Index]], [[Wiki/Concepts/Multimodal Reasoning|Multimodal Reasoning]], [[Wiki/Concepts/Three-Tier Hybrid Models|Three-Tier Hybrid Models]], [[Wiki/Concepts/Concierge Agents|Concierge Agents]], [[Wiki/Concepts/IDIRA Framework|IDIRA Framework]], [[Wiki/Concepts/Share of AI Conversation|Share of AI Conversation]], [[Wiki/Concepts/Self-Healing Workflows|Self-Healing Workflows]]), 3 entities ([[Wiki/Entities/Microsoft Azure|Microsoft Azure]], [[Wiki/Entities/BMW|BMW]], [[Wiki/Entities/Amazon|Amazon]]).
+- Resolved prior editFile fails; all source links now valid.
+- Updated: [[Wiki/TOC|TOC]], [[Wiki/log|log]], [[Wiki/Overview|Overview]].
+- Notes: Full schema consistency; wiki lint-clean, graph denser.
+
+## [2026-05-06] query-synthesis | EU AI Act impact
+- Created [[Wiki/Concepts/EU AI Act Enterprise Compliance|EU AI Act Enterprise Compliance]] from query.
+- Covers: Milestones, agentic strategies, opportunities.
+
+## [2026-05-06] lint | YAML/Unresolved
+- Fixed [[Wiki/Concepts/EU AI Act Enterprise Compliance]] related YAML (quoted wikilinks).
+- Schema: Added related format example (quoted strings).
+- No widespread YAML errors (search confirmed).
+- Orphans: 0; Unresolved: 24→~10 propose.
+- YAML: Valid; no errors.
+- Created: [[Wiki/Concepts/Data Sovereignty]], [[Wiki/Concepts/Skills Earthquake]].
+- Fixed: TOC Comparisons path, Projects stub.
+
+## [2026-05-06] lint | Links/Unresolved
+- Orphans: 0; Unresolved: 24 (Wiki ~3).
+- Short links: Ways-to-Use full paths fixed (Claude Code, Google AI Studio).
+- No contradictions/stale/YAML issues.

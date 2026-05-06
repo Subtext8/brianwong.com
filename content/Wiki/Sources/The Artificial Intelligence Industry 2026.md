@@ -2,7 +2,7 @@
 title: The Artificial Intelligence Industry 2026
 date: 2026-05-05
 source: https://blog.shayaikehassan.com/the-artificial-intelligence-industry-an-in-depth-overview-in-2026
-author: [[Entities/Shaya Ike Hassan|Shaya Ike Hassan]]
+author: "[[Entities/Shaya Ike Hassan|Shaya Ike Hassan]]"
 tags: 
   - AI-industry
   - 2026-trends

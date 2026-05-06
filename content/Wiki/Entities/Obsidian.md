@@ -12,7 +12,10 @@ draft: false
 ---
 # Obsidian
 
-Obsidian: Local-first knowledge base tool with wikilinks, graph view, plugins.[[Wiki/Sources/The Kaparthy LLM Wiki|The Kaparthy LLM Wiki]]
+Obsidian: Local-first knowledge base tool with wikilinks, graph view, plugins.
+
+## From:
+[[Wiki/Sources/The Kaparthy LLM Wiki|The Kaparthy LLM Wiki]]
 
 ## Role in LLM Wiki
 - **IDE**: LLM edits markdown files; user browses live.

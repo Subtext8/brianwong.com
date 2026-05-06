@@ -14,7 +14,7 @@ High-level synthesis of captured knowledge.
 ## LLM Wiki Pattern 
 [[Wiki/Sources/The Kaparthy LLM Wiki|The Kaparthy LLM Wiki]]
 
-[[Andrej Karpathy]]'s idea: LLM maintains [[Persistent Wiki|persistent wiki]] from raw sources, vs [[RAG]].
+[[Wiki/Entities/Andrej Karpathy|Andrej Karpathy]]'s idea: LLM maintains [[Wiki/Concepts/Persistent Wiki|Persistent Wiki]] from raw sources, vs [[Wiki/Concepts/RAG|RAG]].
 
 | Aspect       | RAG $[^1]$             | LLM Wiki                   |
 | ------------ | ---------------------- | -------------------------- |
@@ -41,22 +41,22 @@ High-level synthesis of captured knowledge.
 ## 10 Core AI Concepts (2026) 
 [[Wiki/Sources/10-AI-Concepts|10-AI-Concepts]]
 
-1. [[Concepts/LLMs|LLMs]]
-2. Tokens & [[Concepts/Context Window|Context Window]]
-3. [[Concepts/AI Agents|AI Agents]]
-4. [[Concepts/MCP|MCP]]
+1. [[Wiki/Concepts/LLMs|LLMs]]
+2. Tokens & [[Wiki/Concepts/Context Window|Context Window]]
+3. [[Wiki/Concepts/AI Agents|AI Agents]]
+4. [[Wiki/Concepts/MCP|MCP]]
 5. [[Concepts/RAG|RAG]]
-6. [[Concepts/Fine-tuning|Fine-tuning]]
-7. [[Concepts/Context Engineering|Context Engineering]]
-8. [[Concepts/Reasoning Models|Reasoning Models]]
-9. [[Concepts/Multimodal AI|Multimodal AI]]
-10. [[Concepts/Mixture of Experts|Mixture of Experts]]
+6. [[Wiki/Concepts/Fine-tuning|Fine-tuning]]
+7. [[Wiki/Concepts/Context Engineering|Context Engineering]]
+8. [[Wiki/Concepts/Reasoning Models|Reasoning Models]]
+9. [[Wiki/Concepts/Multimodal AI|Multimodal AI]]
+10. [[Wiki/Concepts/Mixture of Experts|Mixture of Experts]]
 
 ## Practical Applications 
 [[Wiki/Sources/Ways-to-Use-AI-in-Daily-Life|Ways-to-Use-AI-in-Daily-Life]]
 - **101 Use Cases**: Grouped by productivity, work, daily life, finances, learning, career, relationships.
 - **Key Insight**: Foundational tools (ChatGPT/Claude/Perplexity) + prompt engineering > specialized subs.
-- **Progression**: Simple (image ID) → advanced ([[Vibe Coding|vibe coding]], [[Concepts/AI Agents|agents]]: n8n, workflows).
+- **Progression**: Simple (image ID) → advanced ([[Wiki/Comparisons/Vibe-Coding-vs-Agentic-Engineering|Vibe Coding]], [[Concepts/AI Agents|agents]]: n8n, workflows).
 
 - **AI Industry 2026** [[Wiki/Sources/The Artificial Intelligence Industry 2026|AI Industry 2026]]: Global spending >$2.02T (+36%); infra software +83%.[^2]
 
@@ -67,10 +67,15 @@ High-level synthesis of captured knowledge.
 | Platforms    | 29.3      | 14.2% CAGR to 2035      |
 
   **Key Trends**:
-  - [[Concepts/Inference Economics|Inference Economics]] (deployment focus)
-  - [[Concepts/Great Divergence|Great Divergence]] (physical industries lead)
-  - [[Concepts/Agentic Commerce|Agentic Commerce]] (40% B2B agents EOY)
-  - [[Concepts/Multi-Agent Systems|MAS]], [[Concepts/Physical AI|Physical AI]], [[Concepts/Multimodal AI|Multimodal Reasoning]]
-  - [[Concepts/EU AI Act|EU AI Act]] (Aug 2026 full enforcement)
+  - [[Wiki/Concepts/Inference Economics|Inference Economics]] (deployment focus)
+  - [[Wiki/Concepts/Great Divergence|Great Divergence]] (physical industries lead)
+  - [[Wiki/Concepts/Agentic Commerce|Agentic Commerce]] (40% B2B agents EOY)
+  - [[Wiki/Concepts/Multi-Agent Systems|Multi-Agent Systems]], [[Wiki/Concepts/Physical AI|Physical AI]], [[Concepts/Multimodal AI|Multimodal Reasoning]]
+  - [[Wiki/Concepts/EU AI Act|EU AI Act]] (Aug 2026 full enforcement)
+  - [[Wiki/Concepts/Anthropic Economic Index|Anthropic Economic Index]] (uneven geo adoption, AUI)
+  - [[Wiki/Concepts/Self-Healing Workflows|Self-Healing Workflows]] (anti-fragile enterprise agents)
+  - [[Wiki/Concepts/Multimodal Reasoning|Multimodal Reasoning]] (sensory synthesis for real-world)
+  - [[Wiki/Concepts/Three-Tier Hybrid Models|Three-Tier Hybrid Models]] (cloud/edge/on-prem infra)
+  - [[Wiki/Concepts/EU AI Act Enterprise Compliance|EU AI Act Enterprise Compliance]]: 7% fines → rebuild stacks.
 
 [^2]: [[Wiki/Sources/The Artificial Intelligence Industry 2026]]

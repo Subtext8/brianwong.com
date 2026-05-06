@@ -11,10 +11,10 @@ comments: false
  
 > [!note]
 >    Work in progress...maybe. Who cares about me anyway?
->    Do the work first...
+>    Build the content first...
 
 ---
-COO | Corporate Finance | MLM | University of New South Wales | Catcha.com | Scuba Diving | Law of Attraction | Sky Diving | Lotus | Guitar | Piano | Holistic Nutrition | Colon Hydrotherapy | FISAF Trainer | CFA Level 2 | Woodworking | Aquaponic Farming | Anthony Robbins Mastery University | Bob Proctor SGR Program | Mind Valley | Aikido | Snowboarding | Father | Electric Skateboarding | Vedantic Philosophy | NLP | Personal Development | DIY | App Development | YouTube | Meditation | Artificial Intelligence | Blockchain | Investment | Video Production | Website Development | eCommerce | Tennis | Ikigai |
+Retired | COO | Corporate Finance | MLM | University of New South Wales | Catcha.com | Scuba Diving | Law of Attraction | Sky Diving | Lotus | Guitar | Piano | Holistic Nutrition | Colon Hydrotherapy | FISAF Trainer | CFA Level 2 | Woodworking | Aquaponic Farming | Anthony Robbins Mastery University | Bob Proctor SGR Program | Mind Valley | Aikido | Snowboarding | Father | Electric Skateboarding | Vedantic Philosophy | NLP | Personal Development | DIY | App Development | YouTube | Meditation | Artificial Intelligence | Blockchain | Investment | Video Production | Website Development | eCommerce | Tennis | Ikigai |
 
 
 > [!Quote] The Late Bob Proctor...

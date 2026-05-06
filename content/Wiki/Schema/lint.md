@@ -30,5 +30,6 @@ Lint the wiki:
    - New pages for missing concepts
    - New sources to resolve gaps
    - Edits for consistency
+   - Short/partial links: obsidianLinks unresolved → propose editFile to full paths w/ aliases (e.g. [[Wiki/Entities/Entity|Entity]]).
 
 Propose actions: e.g. "Delete orphan [[Wiki/page]]?" or editFile.

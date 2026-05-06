@@ -13,3 +13,7 @@
 ## Wiki Ingestion and Link Fixes
 **Time:** 2026-05-05 18:39
 **Summary:** User instructed AI to add full-path aliases to internal links in Wiki notes, ingest [[Wiki/Raw/10-AI-Concepts|10-AI-Concepts]] and [[Wiki/Raw/Ways To Use AI In Your Daily Life|Ways To Use AI In Your Daily Life]], fix blank DeepSeek note, and correct log formatting. AI created entity pages (e.g., ChatGPT, Claude, Cursor, Madness, OpenAI Agents SDK) and concept pages (e.g., Prompt Engineering), updated sources/log/TOC with aliases and facts from transcripts. All changes accepted; wiki now lint-consistent and graph-ready.
+
+## Fix Obsidian Plugin GitHub Links
+**Time:** 2026-05-06 07:43
+**Summary:** User requested formatting Obsidian community plugins as H2 headings with descriptions and repo links in Obsidian.md; AI updated them alphabetically. User reported 404 errors on many GitHub links, so AI verified and fixed 10 links (e.g., Chord Sheets to olvidalo/obsidian-chord-sheets, Commander to phibr0/obsidian-commander). Later, user asked if a sentence sounded correct; AI confirmed it was excellent with minor optional stylistic tweaks.

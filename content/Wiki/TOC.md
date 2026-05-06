@@ -34,12 +34,22 @@ Catalog of wiki pages by category.
 - [[Wiki/Entities/Mistral AI|Mistral AI]] | Efficient LLMs.
 - [[Wiki/Entities/Shaya Ike Hassan|Shaya Ike Hassan]] | AI industry blogger.
 - [[Wiki/Entities/Snowflake|Snowflake]] | AI databases for agents.
+- [[Wiki/Entities/Microsoft Azure|Microsoft Azure]] | Enterprise AI leader (GPT-4o APIs, -50% costs).
+- [[Wiki/Entities/BMW|BMW]] | Physical AI factories (self-driving production).
+- [[Wiki/Entities/Amazon|Amazon]] | DeepFleet AI (1M robots, +10% warehouse efficiency).
 
 ## Concepts
+- [[Wiki/Concepts/Data Sovereignty|Data Sovereignty]] | Geopatriation/compliance.
+- [[Wiki/Concepts/Skills Earthquake|Skills Earthquake]] | Atrophy/orchestration shift.
+- [[Wiki/Concepts/Jagged Intelligence|Jagged Intelligence]] | LLM peaks/valleys.
+- [[Wiki/Concepts/Verifiability|Verifiability]] | Checkable outputs.
+- [[Wiki/Concepts/Crisis of Distinctiveness|Crisis of Distinctiveness]] | Content AI backlash.
+- [[Wiki/Concepts/Radical Trust|Radical Trust]] | B2B agent transparency.
+
 - [[Wiki/Concepts/LLM-Wiki|LLM-Wiki]] | Pattern for LLM knowledge bases.
 - [[Wiki/Concepts/RAG|RAG]] | Query-time retrieval (non-persistent).
 - [[Wiki/Concepts/Persistent Wiki|Persistent Wiki]] | Compounding wiki artifact.
-- [[Wiki/Concepts/Projects|Projects]] | Trust-based AI coding.
+-  | Trust-based AI coding.
 - [[Wiki/Concepts/Agentic Engineering|Agentic Engineering]] | Pro agent coordination.
 - [[Wiki/Concepts/Software 3.0|Software 3.0]] | Prompting LLMs.
 - [[Wiki/Concepts/LLMs|LLMs]] | Large Language Models (next-token prediction).
@@ -58,6 +68,14 @@ Catalog of wiki pages by category.
 - [[Wiki/Concepts/Inference Economics|Inference Economics]] | Deployment economics.
 - [[Wiki/Concepts/Multi-Agent Systems|Multi-Agent Systems]] | Agent teams.
 - [[Wiki/Concepts/Physical AI|Physical AI]] | AI + robotics.
+- [[Wiki/Concepts/Anthropic Economic Index|Anthropic Economic Index]] | Geo/demo AI usage index (AUI: Singapore 4.6x).
+- [[Wiki/Concepts/Multimodal Reasoning|Multimodal Reasoning]] | Sensory fusion (video/audio/text for real-time diagnosis).
+- [[Wiki/Concepts/Three-Tier Hybrid Models|Three-Tier Hybrid Models]] | Cloud/on-prem/edge AI infrastructure.
+- [[Wiki/Concepts/Concierge Agents|Concierge Agents]] | Personalized memory agents (8B voice assistants).
+- [[Wiki/Concepts/IDIRA Framework|IDIRA Framework]] | AI marketing: Integration/Data/Insights/Results/Action.
+- [[Wiki/Concepts/Share of AI Conversation|Share of AI Conversation]] | Brand visibility in AI answers.
+- [[Wiki/Concepts/Self-Healing Workflows|Self-Healing Workflows]] | Anti-fragile agents (adapt on failure).
+- [[Wiki/Concepts/EU AI Act Enterprise Compliance|EU AI Act Enterprise Compliance]] | Strategies for 2026 fines/compliance.
 
 ## Sources
 - [[Wiki/Sources/The Kaparthy LLM Wiki|The Kaparthy LLM Wiki]] | Karpathy's foundational gist.
@@ -67,4 +85,4 @@ Catalog of wiki pages by category.
 - [[Wiki/Sources/The Artificial Intelligence Industry 2026|The Artificial Intelligence Industry 2026]] | 2026 AI industry: Inference Economics, $2T spending, agentic shift, EU AI Act.
 
 ## Comparisons & Analyses
-- [[Wiki/Vibe-Coding-vs-Agentic-Engineering|Vibe-Coding-vs-Agentic-Engineering]] | Synthesis table: Vibe Coding (democratizing floor) vs Agentic Engineering (professional ceiling).
+- [[Wiki/Comparisons/Vibe-Coding-vs-Agentic-Engineering|Vibe-Coding-vs-Agentic-Engineering]] | Vibe vs Agentic table. | Synthesis table: Vibe Coding (democratizing floor) vs Agentic Engineering (professional ceiling).

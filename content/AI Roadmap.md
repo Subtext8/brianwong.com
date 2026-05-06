@@ -23,11 +23,11 @@ This roadmap is designed to help you identify your current position in the AI la
 
 At this level, the focus is on **Analog Sovereignty**. You likely prioritize data privacy, physical security, and institutional stability over digital speed. You may feel that manual verification is more reliable than algorithmic output.
 
-- **Mindset:** Privacy First, Zero Trust.
+- **Mindset:** Traditionally Accepted Tech, Privacy First, Zero Trust.
     
 - **Core Skill:** Manual data verification and physical security protocols.
     
-- **Tools & Apps:** Fountain pens, paper journals (like Leuchtturm), local Excel (offline), physical filing systems, offline calculators, typewriters, and air-gapped hardware.
+- **Tools & Apps:** Pens, paper journals (like Leuchtturm), local Excel (offline), physical filing systems, offline calculators, and air-gapped hardware.
     
 
 ## Level 1: The Consumer

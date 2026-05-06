@@ -62,11 +62,11 @@
 .page-title a::after {
   content: "";
   display: inline-block;
-  width: 0.6em;
+  width: 0.5em;
   height: 1em;
-  min-width: 0.6em;
+  min-width: 0.5em;
   background-color: currentColor;
-  margin-left: 3px;
+  margin-left: 1px;
   vertical-align: text-bottom;
   animation: blink 1.2s step-end infinite;
   flex-shrink: 0;

@@ -38,10 +38,11 @@ date: YYYY-MM-DD
 tags: [wiki, category]
 description: ""
 draft: false
+related: ["[[Wiki/Page1]]", "[[Wiki/Page2]]"]  # Optional: Quoted wikilink strings for Obsidian YAML parsing
 ---
 ```
 
-Always use full paths in all wiki links: [[Wiki/Folder/Page]] (e.g. [[Wiki/Entities/Entity]], [[Wiki/Concepts/Concept]], [[Wiki/Sources/Source]]). Use bullet points, frontmatter.
+Always use full paths with optional aliases in all wiki links: [[Wiki/Folder/Page|Page]] (e.g. [[Wiki/Entities/Entity|Entity]], [[Wiki/Concepts/Concept|Concept]], [[Wiki/Sources/Source|Source]]). Use bullet points, frontmatter.
 
 ## Operations
 
