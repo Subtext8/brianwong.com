@@ -5,7 +5,7 @@ date: 2026-05-07
 tags:
   - knowledge-graphs
   - ai
-description: Stanford CS520 2020 notes on KG-AI intersections: testbed for algorithms, Graph Data Science, long-term explicit representations for explainable AI.
+description: "Stanford CS520 2020 notes on KG-AI intersections: testbed for algorithms, Graph Data Science, long-term explicit representations for explainable AI."
 source: https://web.stanford.edu/class/cs520/2020/notes/How_do_Knowledge_Graphs_Relate_To_AI.html
 draft: false
 ---
