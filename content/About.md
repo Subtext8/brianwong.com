@@ -11,10 +11,15 @@ comments: false
  
 > [!note]
 >    Work in progress...maybe. Who cares about me anyway?
->    Build the content first...
+>    Do other stuff first...
 
 ---
-Retired | COO | Corporate Finance | MLM | University of New South Wales | Catcha.com | Scuba Diving | Law of Attraction | Sky Diving | Lotus | Guitar | Piano | Holistic Nutrition | Colon Hydrotherapy | FISAF Trainer | CFA Level 2 | Woodworking | Aquaponic Farming | Anthony Robbins Mastery University | Bob Proctor SGR Program | Mind Valley | Aikido | Snowboarding | Father | Electric Skateboarding | Vedantic Philosophy | NLP | Personal Development | DIY | App Development | YouTube | Meditation | Artificial Intelligence | Blockchain | Investment | Video Production | Website Development | eCommerce | Tennis | Ikigai |
+# Devoted to Life Long Learning & Training
+
+> "No citizen has a right to be an amateur in the matter of physical training... what a disgrace it is for a man to grow old without ever seeing the beauty and strength of which his body is capable." - Socrates
+
+## If I was a Wiki, these would be my Tags:
+Retired | COO | Corporate Finance | MLM | University of New South Wales | Catcha.com | Scuba Diving | [Law of Attraction](https://youtu.be/AdkTsKuzJzo) | Sky Diving | Lotus Elise | [Guitar](https://youtu.be/0wQ44Fy-n-I) | [Piano](https://youtu.be/NCMax-U1z7o) | Holistic Nutrition | Colon Hydrotherapy | FISAF Fitness Trainer | Yoga | CFA Level 2 | [Woodworking](https://youtu.be/tqvLBckKrzs) | [Aquaponic Farming](https://youtu.be/sx0rKp9trSs) | Anthony Robbins | [Archery](https://youtu.be/G8jJvakSfRk) | Mind Valley | Aikido | [Snowboarding](https://youtu.be/aC09KT_jzGM) | Father | [eSkateboarding](https://youtu.be/KX7idFr0zVs) | Vedantic Philosophy | NLP | Personal Development | DIY | App Development | YouTube | Meditation | Artificial Intelligence | Blockchain | Investment | Video Production | Web Development | eCommerce | [Tennis](https://youtu.be/0h627vctLwY) | Ikigai |
 
 
 > [!Quote] The Late Bob Proctor...
