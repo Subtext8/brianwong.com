@@ -21,13 +21,13 @@ This roadmap is designed to help you identify your current position in the AI la
 
 ## Level 0: The Guardian
 
-At this level, the focus is on **Analog Sovereignty**. You likely prioritize data privacy, physical security, and institutional stability over digital speed. You may feel that manual verification is more reliable than algorithmic output.
+At this level, the focus is on **Analog Sovereignty**. You likely prioritize data privacy, physical security, and institutional stability over digital speed. You may feel that manual verification is more reliable than algorithmic output and perhaps the AI hype train will just pass.
 
-- **Mindset:** Traditionally Accepted Tech, Privacy First, Zero Trust.
+- **Mindset:** Traditionally Accepted Tech, Privacy First, Zero Trust. No to change.
     
-- **Core Skill:** Manual data verification and physical security protocols.
+- **Core Skill:** Manual data verification and physical security protocols. They way its always been done is "fine".
     
-- **Tools & Apps:** Pens, paper journals (like Leuchtturm), local Excel (offline), physical filing systems, offline calculators, and air-gapped hardware.
+- **Tools & Apps:** Pens, paper journals (like Leuchtturm), local Excel (offline), physical filing systems, corporate approved software only and air-gapped hardware.
     
 
 ## Level 1: The Consumer
