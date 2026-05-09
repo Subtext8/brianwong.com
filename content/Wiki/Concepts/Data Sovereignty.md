@@ -19,24 +19,24 @@ Data Sovereignty mandates keeping data and AI processing within national borders
 
 | Aspect | Implication |
 |--------|-------------|
-| Compliance | 75% EU/ME by 2030 [[Wiki/Sources/The Artificial Intelligence Industry 2026]] |
-| Tech | Confidential Computing/AI [[Wiki/Concepts/Three-Tier Hybrid Models]] |
+| Compliance | 75% EU/ME by 2030 [[Wiki/Sources/The Artificial Intelligence Industry 2026|The Artificial Intelligence Industry 2026]] |
+| Tech | Confidential Computing/AI [[Wiki/Concepts/Three-Tier Hybrid Models|Three-Tier Hybrid Models]] |
 
 ## Entities
 | Entity | Role |
 |--------|------|
-| [[Wiki/Entities/Anthropic|Anthropic]] | Governed workflows |
-| [[Wiki/Entities/Snowflake|Snowflake]] | Secure DBs |
+| [[Wiki/Entities/Anthropic\|Anthropic]] | Governed workflows |
+| [[Wiki/Entities/Snowflake\|Snowflake]] | Secure DBs |
 
 ## Concepts
 | Concept | Link |
 |---------|------|
-| [[Wiki/Concepts/EU AI Act Enterprise Compliance|EU AI Act Compliance]] | Regulatory driver |
-| [[Wiki/Concepts/Radical Trust|Radical Trust]] | Transparency enabler |
+| [[Wiki/Concepts/EU AI Act Enterprise Compliance\|EU AI Act Compliance]] | Regulatory driver |
+| [[Wiki/Concepts/Radical Trust\|Radical Trust]] | Transparency enabler |
 
 ## Sources/References
-- [[Wiki/Sources/The Artificial Intelligence Industry 2026]]
+- [[Wiki/Sources/The Artificial Intelligence Industry 2026|The Artificial Intelligence Industry 20206]]
 
 > [!note] Connections
-> - Links [[Wiki/Concepts/AI Sovereignty]] (broader).
-> - Challenges [[Wiki/Concepts/Inference Economics]] (cost/scaling).
+> - Links [[Wiki/Concepts/AI Sovereignty|AI Sovereignty]] (broader).
+> - Challenges [[Wiki/Concepts/Inference Economics|Inference Economics]] (cost/scaling).

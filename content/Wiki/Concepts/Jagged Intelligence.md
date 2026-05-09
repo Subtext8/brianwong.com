@@ -10,7 +10,7 @@ draft: false
 # Jagged Intelligence
 
 ## Overview
-LLM performance is &quot;jagged&quot;: excels in specific tasks (e.g. coding certain patterns) but fails unexpectedly in adjacent areas. Unlike smooth human learning curves.
+LLM performance is "jagged": excels in specific tasks (e.g. coding certain patterns) but fails unexpectedly in adjacent areas. Unlike smooth human learning curves.
 
 ## Key Facts
 - From [[Wiki/Raw/The Kaparthy LLM Wiki]]: Peaks/valleys in capabilities; expect surprises.
@@ -19,16 +19,16 @@ LLM performance is &quot;jagged&quot;: excels in specific tasks (e.g. coding cer
 ## Related Entities
 | Entity | Description |
 |--------|-------------|
-| [[Wiki/Entities/Andrej Karpathy|Andrej Karpathy]] | Coined/observed in LLM Wiki. |
+| [[Wiki/Entities/Andrej Karpathy\|Andrej Karpathy]] | Coined/observed in LLM Wiki. |
 
 ## Related Concepts
 | Concept | Link |
 |---------|------|
-| [[Wiki/Concepts/Vibe Coding|Vibe Coding]] | Leverages peaks. |
+| [[Wiki/Concepts/Vibe Coding\|Vibe Coding]] | Leverages peaks. |
 
 ## Sources/References
-- [[Wiki/Raw/The Kaparthy LLM Wiki]]
+- [[Wiki/Raw/The Kaparthy LLM Wiki\|The Kaparthy LLM Wiki]]
 
-&gt; [!note] Connections
-&gt; - Complements [[Wiki/Concepts/LLM-Wiki]]: Tailor ingests to peaks.
-&gt; - Vs [[Wiki/Concepts/Agentic AI]]: Agents smooth jaggedness via tools.
+> [!note] Connections
+> - Complements [[Wiki/Concepts/LLM-Wiki\|LLM-Wiki]]: Tailor ingests to peaks.
+> - Vs [[Wiki/Concepts/Agentic AI\|Agentic AI]]: Agents smooth jaggedness via tools.

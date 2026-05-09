@@ -54,14 +54,6 @@ draft: false
 - Updated: [[Wiki/TOC|TOC]]
 - Notes: YouTube video (101 use cases); practical expansion on tools/applications.
 
-## [2026-05-05] ingest | The Artificial Intelligence Industry 2026
-- Created: [[Wiki/Sources/The Artificial Intelligence Industry 2026|The Artificial Intelligence Industry 2026]]
-- New Entities: [[Wiki/Entities/Shaya Ike Hassan|Shaya Ike Hassan]], [[Wiki/Entities/Snowflake|Snowflake]], [[Wiki/Entities/Adobe Firefly|Adobe Firefly]], [[Wiki/Entities/Mistral AI|Mistral AI]], [[Wiki/Entities/Intercom|Intercom]], [[Wiki/Entities/BBVA|BBVA]], [[Wiki/Entities/L’Oréal|L’Oréal]], [[Wiki/Entities/CMA CGM|CMA CGM]]
-- New Concepts: [[Wiki/Concepts/Inference Economics|Inference Economics]], [[Wiki/Concepts/Great Divergence|Great Divergence]], [[Wiki/Concepts/Agentic Commerce|Agentic Commerce]], [[Wiki/Concepts/Multi-Agent Systems|Multi-Agent Systems]], [[Wiki/Concepts/Physical AI|Physical AI]], [[Wiki/Concepts/EU AI Act|EU AI Act]]
-- Appended to: [[Wiki/Entities/Anthropic|Anthropic]], [[Wiki/Concepts/AI Agents|AI Agents]], [[Wiki/Concepts/Multimodal AI|Multimodal AI]]
-- Updated: [[Wiki/TOC|TOC]], [[Wiki/Overview|Overview]]
-- Notes: Major 2026 AI industry analysis (blog); markets ($2T+), trends (Inference Economics, MAS), cases (Anthropic/Snowflake, etc.).
-
 ## [2026-05-05] ingest | 10-AI-Concepts (update)
 - Created missing entities: [[Wiki/Entities/ChatGPT|ChatGPT]], [[Wiki/Entities/Claude|Claude]], [[Wiki/Entities/Gemini|Gemini]], [[Wiki/Entities/OpenAI|OpenAI]], [[Wiki/Entities/Agentic AI Foundation|Agentic AI Foundation]], [[Wiki/Entities/Linux Foundation|Linux Foundation]]
 - Updated: [[Wiki/TOC|TOC]]
@@ -101,8 +93,31 @@ draft: false
 - Updated: [[Wiki/TOC|TOC]], [[Wiki/Overview|Overview]]
 - Notes: Stanford CS520 ch10; KG-AI intersections (symbiotic testbed, emerging GDS, explicit reps for explainable AI vision). Major foundational expansion.
 
-## [2026-05-07] ingest | KG Edge Types Diagram & KG Relationships
-- Confirmed/ingested source: [[Wiki/Sources/KG Edge Types Diagram|KG Edge Types Diagram]] (visual schema of 10 typed edges w/ colors/weights).
-- Concept: [[Wiki/Concepts/KG Relationships|KG Relationships]] (table/examples).
+## [2026-05-10] ingest | Agent Client Protocol
+- Updated: [[Wiki/Sources/Agent Client Protocol]], [[Wiki/Concepts/Agent Client Protocol]], [[Wiki/TOC]]
+- Notes: Ingested Agent Client Protocol (ACP) introduction.
+
+## [2026-05-10] ingest | The Artificial Intelligence Industry 2026
+- Created source: [[Wiki/Sources/The Artificial Intelligence Industry 2026|The Artificial Intelligence Industry 2026]]
+- New Entities: [[Wiki/Entities/Shaya Ike Hassan|Shaya Ike Hassan]], [[Wiki/Entities/Snowflake|Snowflake]], [[Wiki/Entities/Adobe Firefly|Adobe Firefly]], [[Wiki/Entities/Mistral AI|Mistral AI]], [[Wiki/Entities/Intercom|Intercom]], [[Wiki/Entities/BBVA|BBVA]], [[Wiki/Entities/L’Oréal|L’Oréal]], [[Wiki/Entities/CMA CGM|CMA CGM]]
+- New Concepts: [[Wiki/Concepts/Inference Economics|Inference Economics]], [[Wiki/Concepts/Great Divergence|Great Divergence]], [[Wiki/Concepts/Agentic Commerce|Agentic Commerce]], [[Wiki/Concepts/Multi-Agent Systems|Multi-Agent Systems]], [[Wiki/Concepts/Physical AI|Physical AI]], [[Wiki/Concepts/EU AI Act|EU AI Act]]
+- Updated: [[Wiki/TOC|TOC]], [[Wiki/Overview|Overview]]
+- Notes: Major 2026 AI industry analysis; markets ($2T+), trends (Inference Economics, MAS), cases (Anthropic/Snowflake, etc.).
+
+## [2026-05-10] ingest | STORM-Evolution
+- Created: [[Wiki/Concepts/STORM-Evolution|STORM-Evolution]]
+- Notes: Synthesized comparison between STORM and Co-STORM.
 - Updated: [[Wiki/TOC|TOC]]
-- Notes: Diagram from conversation; building blocks for KG design, ties to Graph Data Science/explainable AI.
+
+## [2026-05-10] ingest | Stanford-STORM & Co-STORM
+- Created source: [[Wiki/Sources/Stanford-STORM|Stanford-STORM]]
+- Created entities: [[Wiki/Entities/Stanford-STORM|Stanford-STORM]], [[Wiki/Entities/Co-STORM|Co-STORM]], [[Wiki/Entities/DSPy|DSPy]], [[Wiki/Entities/LiteLLM|LiteLLM]], [[Wiki/Entities/You.com|You.com]]
+- Created concepts: [[Wiki/Concepts/Collaborative Discourse Protocol|Collaborative Discourse Protocol]], [[Wiki/Concepts/Information Retrieval|Information Retrieval]], [[Wiki/Concepts/Knowledge Curation|Knowledge Curation]], [[Wiki/Concepts/Mind Map|Mind Map]], [[Wiki/Concepts/Perspective-Guided Question Asking|Perspective-Guided Question Asking]], [[Wiki/Concepts/Simulated Conversation|Simulated Conversation]]
+- Updated: [[Wiki/TOC|TOC]]
+- Notes: Ingested STORM/Co-STORM documentation; covers automated Wikipedia-like article generation and human-AI collaborative curation.
+
+## [2026-05-10] ingest | STORM-paper
+- Created source: [[Wiki/Sources/STORM-paper|STORM-paper]]
+- New entities: [[Wiki/Entities/STORM|STORM]], [[Wiki/Entities/FreshWiki|FreshWiki]]
+- Updated: [[Wiki/TOC|TOC]]
+- Notes: Ingested STORM research paper; covers pre-writing stage, perspective-guided question asking, and FreshWiki dataset.
