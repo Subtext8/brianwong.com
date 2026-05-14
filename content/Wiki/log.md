@@ -116,8 +116,13 @@ draft: false
 - Updated: [[Wiki/TOC|TOC]]
 - Notes: Ingested STORM/Co-STORM documentation; covers automated Wikipedia-like article generation and human-AI collaborative curation.
 
-## [2026-05-10] ingest | STORM-paper
-- Created source: [[Wiki/Sources/STORM-paper|STORM-paper]]
-- New entities: [[Wiki/Entities/STORM|STORM]], [[Wiki/Entities/FreshWiki|FreshWiki]]
+## [2026-05-14] ingest | Using Claude Code The Unreasonable Effectiveness of HTML
+- Created source: [[Wiki/Sources/Using-Claude-Code-The-Unreasonable-Effectiveness-of-HTML|Using-Claude-Code-The-Unreasonable-Effectiveness-of-HTML]]
+- New Entities: [[Wiki/Entities/HTML|HTML]], [[Wiki/Entities/Markdown|Markdown]], [[Wiki/Entities/SVG|SVG]], [[Wiki/Entities/CSS|CSS]], [[Wiki/Entities/JavaScript|JavaScript]]
+- Updated: [[Wiki/Entities/Claude|Claude]], [[Wiki/Entities/Claude-Code|Claude-Code]]
 - Updated: [[Wiki/TOC|TOC]]
-- Notes: Ingested STORM research paper; covers pre-writing stage, perspective-guided question asking, and FreshWiki dataset.
+- Notes: Ingested article on using HTML as an output format for AI agents to improve information density and interactivity.
+
+## [2026-05-14] ingest | Post by @karpathy on X
+- Updated: [[Wiki/Sources/Post-by-karpathy-on-X|Post by @karpathy on X]], [[Wiki/Entities/Claude|Claude]]
+- Notes: Ingested Andrej Karpathy's post on the evolution of AI input/output and the preference for HTML as an output format.

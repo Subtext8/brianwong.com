@@ -44,6 +44,11 @@ Catalog of wiki pages by category.
 - [[Wiki/Entities/DSPy|DSPy]] | LLM programming framework.
 - [[Wiki/Entities/LiteLLM|LiteLLM]] | LLM API abstraction.
 - [[Wiki/Entities/You.com|You.com]] | AI-powered search engine.
+- [[Wiki/Entities/HTML|HTML]] | Web markup language.
+- [[Wiki/Entities/Markdown|Markdown]] | Lightweight markup language.
+- [[Wiki/Entities/SVG|SVG]] | Scalable Vector Graphics.
+- [[Wiki/Entities/CSS|CSS]] | Style sheet language.
+- [[Wiki/Entities/JavaScript|JavaScript]] | Programming language for the web.
 
 ## Concepts
 ### Core AI & Agents
@@ -55,6 +60,9 @@ Catalog of wiki pages by category.
 - [[Wiki/Concepts/Agentic Commerce|Agentic Commerce]] | Agentic commerce shift.
 - [[Wiki/Concepts/Agent Client Protocol|Agent Client Protocol]] | Standardized protocol for agent-editor communication.
 - [[Wiki/Concepts/MCP|MCP]] | Model Context Protocol (AI USB).
+- [[Wiki/Concepts/Information Density|Information Density]] | Richness of information representation.
+- [[Wiki/Concepts/Interactive Artifacts|Interactive Artifacts]] | HTML-based interactive AI outputs.
+- [[Wiki/Concepts/Frontend Design Plugin|Frontend Design Plugin]] | Tool for Claude to design HTML.
 
 ### Knowledge & Reasoning
 - [[Wiki/Concepts/Knowledge Graphs|Knowledge Graphs]] | Labeled graphs symbiotic w/ AI.
@@ -113,7 +121,9 @@ Catalog of wiki pages by category.
 - [[Wiki/Sources/How Knowledge Graphs Relate to AI|How Knowledge Graphs Relate to AI]] | Stanford CS520: KG-AI symbiosis.
 - [[Wiki/Sources/Stanford-STORM|Stanford-STORM]] | STORM/Co-STORM: Wikipedia-like article generation.
 - [[Wiki/Sources/STORM-paper|STORM-paper]] | Research paper on STORM system.
-- [[Wiki/Sources/Co-STORM-paper|Co-STORM-paper]] | Research on collaborative discourse.
+- [[Wiki/Sources/Using-Claude-Code-The-Unreasonable-Effectiveness-of-HTML|Using Claude Code The Unreasonable Effectiveness of HTML]] | HTML as an output format for AI agents.
+- [[Wiki/Sources/Post-by-karpathy-on-X|Post by @karpathy on X]] | Andrej Karpathy on AI input/output evolution.
+- [[Wiki/Sources/AI Agents for PMs in 69 Minutes — Masterclass with IBM VP|AI Agents for PMs in 69 Minutes — Masterclass with IBM VP]] | Masterclass with IBM VP Armand Ruiz on AI agents, RAG, and the future of product management.
 
 ## Comparisons & Analyses
 - [[Wiki/Comparisons/Vibe-Coding-vs-Agentic-Engineering|Vibe-Coding-vs-Agentic-Engineering]] | Vibe vs Agentic table.
