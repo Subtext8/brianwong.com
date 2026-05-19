@@ -14,7 +14,7 @@ draft: false
 
 Embed the diagram here (user diagram with 10 colored/directed/weighted edges):
 
-![[Attachments/Screenshot 2026-05-06 at 8.38.09 PM.png|10 KG Relationship Types]]
+![[Attachments/10-edge-types.png|10 KG Relationship Types]]
 
 ## Summary
 Visual schema of KG relationships enabling:
