@@ -72,6 +72,9 @@ The **Templater** plugin by SilentVoid13 ([GitHub](https://github.com/SilentVoid
 ## Tracker
 The **Tracker** plugin by TotetMatt ([GitHub](https://github.com/totetmatt/obsidian-tracker)) builds habit trackers, calendars, and charts by querying properties across notes, supporting input modals, relative dates, and multiple chart types for data visualization. I use this to create graphs and daily habit trackers for my workouts, meditation, weight, studies, and a lot more.
 
+## Git
+The **Obsidian Git** plugin is an essential tool for automating the synchronization of your vault with a remote GitHub repository, which serves as the backbone for publishing your site via **Quartz**. By automatically committing and pushing your local Markdown changes to GitHub, the plugin triggers your Quartz deployment pipeline—typically hosted on platforms like Vercel or Netlify—to rebuild and update your live site whenever you save your notes. This seamless integration eliminates the need for manual terminal commands, allowing you to focus entirely on writing while ensuring that your latest edits, structure, and content are reflected on your public-facing Quartz site with minimal friction.
+
 ----
 ➡️ **Next:** My Other [[Projects]]
 
