@@ -11,9 +11,9 @@ draft: false
 comments: false
 ---
 ---
-# Congruence is the Secret to a High-Performance & Happy Life
+# Congruence is the Secret to a High-Performance Life
 
-![[Attachments/Congruence Vs Balance-1.png]]
+![[Attachments/Congruence Vs Balance-2.png]]
 
 We’ve all heard the advice: "You need to find more balance."
 
