@@ -11,7 +11,7 @@ draft: false
 ---
 ---
 # AI Tools I Actually Use
-Ok, so these are not all AI tools but make up the components in the AI tech stack I am learning and using. 
+Ok, so these are not all AI tools but make up the components in the AI tech stack I am learning and using. I'm not explicitly listing Claude, Gemini, ChatGPT and Perplexity as I guess most would be familiar with these already.
 
 [Typeless Keyboard](https://www.typeless.com/?via=vip-invite) - it's so much better to use voice to interact with AI rather than the keyboard. Wisper Flow is very popular, but I prefer Typeless. The main game changer on the phone is that it has a quick edit button to allow you to edit your inputs in a more intuitive way. Very often we type something and then we want to change it. The Quick Edit button allows you to do exactly that and to transform whatever your original text was on the fly. This feature alone sets it apart from all other voice-to-text apps. On the computer, aside from the quick key to input, it also has quick access to AI. I use the Function + Spacebar command quite a lot.
 
