@@ -27,11 +27,11 @@ We’ve entered a remarkable era where the boundary between having an idea and b
 **Obsidian Multi-device Sync via Syncthing** - By deploying Syncthing as a decentralized peer-to-peer mesh, you create an encrypted, local-first network that instantly synchronizes your Obsidian vault across nodes using cryptographic device handshakes and file-change watchers while bypassing the cloud entirely.
 
 ---
-## Work In Progress:
+## Currently Working On:
 
 **Local Sovereign LLM Project**: I'm currently working on the project to host a frontier-level LLM on my own local server. The project is presently delayed as there is a [6-8 week wait ](https://www.tomshardware.com/desktops/apple-warns-mac-mini-and-mac-studio-shortages-could-last-for-months-local-ai-boom-and-memory-crunch-drive-demand-beyond-apples-manufacturing-capacity)for a custom-spec Apple Mac Mini with 64GB of RAM! This is due to the global shortage in SDRAM. In any case, the idea is to build a frontier-level LLM locally. and to make that accessible through my phone, laptop, and tablet from anywhere in the world. Stay tuned for updates on this exciting project.
 
-![[Attachments/family-ai-project.png]]
+![[Attachments/Projects.jpg]]
 
 
 
