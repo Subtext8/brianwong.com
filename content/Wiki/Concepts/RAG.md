@@ -22,7 +22,8 @@ draft: false
 - RAG: Ephemeral retrieval.
 - [[Wiki/Concepts/LLM-Wiki|LLM Wiki]]: Proactive maintenance of persistent wiki.
 
-## From [[Wiki/Sources/10-AI-Concepts]]
-- Fixes LLM knowledge cutoff & hallucinations: Retrieve relevant docs (vector DB) into prompt for grounded answers.
-- Vector databases: Store embeddings for semantic similarity search (e.g. "refund policy" finds "return"/"money back").
-- 
+## From [[Wiki/Sources/Retrieval-Augmented Generation]]
+- RAG optimizes LLM output by referencing authoritative knowledge bases outside training data without retraining.
+- Solves challenges like hallucinations, static knowledge cut-offs, and lack of source attribution.
+- Pipelines involve creating external data (embeddings), retrieving relevant information (vector search), and augmenting the LLM prompt.
+- Cost-effective alternative to fine-tuning for injecting domain-specific or real-time data. 

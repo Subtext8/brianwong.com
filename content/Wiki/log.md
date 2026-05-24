@@ -123,6 +123,11 @@ draft: false
 - Updated: [[Wiki/TOC|TOC]]
 - Notes: Ingested article on using HTML as an output format for AI agents to improve information density and interactivity.
 
+## [2026-05-24] ingest | Retrieval-Augmented Generation
+- Created: [[Wiki/Sources/Retrieval-Augmented Generation]], [[Wiki/Entities/Amazon Bedrock]], [[Wiki/Entities/Amazon Kendra]], [[Wiki/Entities/Amazon SageMaker JumpStart]].
+- Updated: [[Wiki/Concepts/RAG]], [[Wiki/TOC]], [[Wiki/log]].
+- Notes: Ingested AWS RAG overview; added entities and updated RAG concept page.
+
 ## [2026-05-14] ingest | Post by @karpathy on X
 - Updated: [[Wiki/Sources/Post-by-karpathy-on-X|Post by @karpathy on X]], [[Wiki/Entities/Claude|Claude]]
 - Notes: Ingested Andrej Karpathy's post on the evolution of AI input/output and the preference for HTML as an output format.

@@ -123,6 +123,7 @@ Catalog of wiki pages by category.
 - [[Wiki/Sources/STORM-paper|STORM-paper]] | Research paper on STORM system.
 - [[Wiki/Sources/Using-Claude-Code-The-Unreasonable-Effectiveness-of-HTML|Using Claude Code The Unreasonable Effectiveness of HTML]] | HTML as an output format for AI agents.
 - [[Wiki/Sources/Post-by-karpathy-on-X|Post by @karpathy on X]] | Andrej Karpathy on AI input/output evolution.
+- [[Wiki/Sources/Retrieval-Augmented Generation|Retrieval-Augmented Generation]] | Overview of RAG, its benefits, and implementation on AWS.
 - [[Wiki/Sources/AI Agents for PMs in 69 Minutes — Masterclass with IBM VP|AI Agents for PMs in 69 Minutes — Masterclass with IBM VP]] | Masterclass with IBM VP Armand Ruiz on AI agents, RAG, and the future of product management.
 
 ## Comparisons & Analyses
