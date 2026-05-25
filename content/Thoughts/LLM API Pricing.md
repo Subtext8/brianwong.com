@@ -3,7 +3,9 @@ aliases: []
 title: LLM API Pricing
 date: 2026-05-22
 tags:
-description: ""
+  - AI/LLM
+  - AI/pricing
+description: Stop overpaying for AI. Discover how a simple shift in your API workflow—using cost-efficient models for heavy lifting and premium models for logic—can save you 180x on LLM costs.
 draft: false
 comments: false
 ---
