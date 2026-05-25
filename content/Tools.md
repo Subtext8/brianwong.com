@@ -35,6 +35,13 @@ Ok, so these are not all AI tools but make up the components in the AI tech stac
 
 [Telegram](https://telegram.org/) is a cloud-based, cross-platform instant messaging service known for its speed, security, and extensive support for automation through its robust Bot API. A standout feature of the platform is **[BotFather](https://t.me/botfather)**, the official "bot to rule them all" within Telegram. BotFather is the primary interface used to create new bot accounts and manage their settings. By interacting with it, you can register a new bot, obtain the unique API token required to connect your code to Telegram's servers, and configure essential details like the bot's name, profile picture, and command menu. For power users and developers, BotFather is the essential gateway for building custom automation tools—such as your own Telegram-to-Obsidian bot—allowing you to bridge external services directly into your personal knowledge management workflow.
 
+[AnythingLLM](https://useanything.com/) is an all-in-one, privacy-focused desktop application that transforms your local documents into a searchable, intelligent knowledge base. It provides a seamless interface to manage your own vector database, allowing you to perform Retrieval-Augmented Generation (RAG) on your private files without data ever leaving your machine. By supporting a wide range of LLM backends—including local models via Ollama or cloud-based APIs via gateways like OpenRouter—AnythingLLM offers the perfect balance of ease-of-use and total control, making it an essential tool for anyone looking to build a secure, context-aware AI assistant.
+
+[LM Studio](https://lmstudio.ai/) is a powerful, user-friendly desktop application that makes running Large Language Models (LLMs) locally on your computer incredibly simple. It provides a clean, intuitive interface to discover, download, and run open-source models (like Llama 3, Mistral, or Qwen) directly on your hardware, ensuring complete privacy and offline capability. With built-in support for GPU acceleration and a local server mode that mimics the OpenAI API, LM Studio is the ideal "sandbox" for testing and deploying local AI without needing complex command-line knowledge or external cloud dependencies.
+
+
+
+
 
 
 ---
