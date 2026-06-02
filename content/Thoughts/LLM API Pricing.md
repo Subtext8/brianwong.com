@@ -13,7 +13,7 @@ comments: false
 
 I’ve been reading about the aggressive pricing strategies in the AI space for months, but seeing a trend play out in industry articles is completely different from watching it hit your own wallet in real-time for the first time.
 
-![[Attachments/Untitled.png]]
+![[Attachments/llm-pricing.png]]
 
 Last night, I was testing local setups for some personal data parsing, feeding large context dumps into AnythingLLM via OpenRouter. When I pulled up my usage dashboard to audit the session expenses, the stark reality of the asymmetric price war between legacy frontier models and the new wave of optimized engines was right there on my screen.
 

@@ -39,11 +39,6 @@ Ok, so these are not all AI tools but make up the components in the AI tech stac
 
 [LM Studio](https://lmstudio.ai/) is a powerful, user-friendly desktop application that makes running Large Language Models (LLMs) locally on your computer incredibly simple. It provides a clean, intuitive interface to discover, download, and run open-source models (like Llama 3, Mistral, or Qwen) directly on your hardware, ensuring complete privacy and offline capability. With built-in support for GPU acceleration and a local server mode that mimics the OpenAI API, LM Studio is the ideal "sandbox" for testing and deploying local AI without needing complex command-line knowledge or external cloud dependencies.
 
-
-
-
-
-
 ---
 
 **Related:** [[AI Roadmap]]
