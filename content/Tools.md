@@ -15,6 +15,10 @@ Ok, so these are not all AI tools but make up the components in the AI tech stac
 
 [Typeless Keyboard](https://www.typeless.com/?via=vip-invite) - it's so much better to use voice to interact with AI rather than the keyboard. Wisper Flow is very popular, but I prefer Typeless. The main game changer on the phone is that it has a quick edit button to allow you to edit your inputs in a more intuitive way. Very often we type something and then we want to change it. The Quick Edit button allows you to do exactly that and to transform whatever your original text was on the fly. This feature alone sets it apart from all other voice-to-text apps. On the computer, aside from the quick key to input, it also has quick access to AI. I use the Function + Spacebar command quite a lot.
 
+[Docker](https://www.docker.com/) - A platform for developing, shipping, and running applications in containers. It packages software into standardized units that include everything needed to run, ensuring consistency across environments. I use it to manage and deploy self-hosted services like Open WebUI and Paperless-ngx.
+
+[Tailscale](https://tailscale.com/) - A zero-config, peer-to-peer VPN built on WireGuard. It makes it easy to securely connect your devices, servers, and cloud resources as if they were on the same local network, regardless of where they are in the world. I use it to securely access my self-hosted services and sync my Obsidian vault.
+
 [Obsidian](https://obsidian.md/) - About four years ago, I switched to Obsidian after two years as a paid Notion user. It was the best decision I ever made; I realized that many important notes I wanted to export from Notion required extensive rework due to its proprietary markdown formats. Today, I use Obsidian daily to manage my tasks, events, projects, and knowledge base. The absolute best part of using Obsidian is that I can link it to a local LLM, allowing for completely private AI chats without worrying about my personal information being exposed to corporations. So although Obsidian itself is not an AI tool, it is an indispensable part of my AI toolbox.
 
 [Alfred](https://alfred.app/) - I've been using Alfred for almost a decade now. Its keyboard shortcuts are built into my muscle memory. If I ever use a Mac without it, I find that it's very hard to use. In particular, for AI coding and terminal use, I have saved a ton of snippets into the Snippets shortcuts. Especially regularly used terminal commands and Git commands. I really recommend taking the time to learn how to use all the features in Alfred. Once mastered, it becomes essential for maximizing productivity in your everyday use of the Mac. (Others Text Expansion Tools: **Raycast** and **Text Expander**)
@@ -39,7 +43,12 @@ Ok, so these are not all AI tools but make up the components in the AI tech stac
 
 [LM Studio](https://lmstudio.ai/) is a powerful, user-friendly desktop application that makes running Large Language Models (LLMs) locally on your computer incredibly simple. It provides a clean, intuitive interface to discover, download, and run open-source models (like Llama 3, Mistral, or Qwen) directly on your hardware, ensuring complete privacy and offline capability. With built-in support for GPU acceleration and a local server mode that mimics the OpenAI API, LM Studio is the ideal "sandbox" for testing and deploying local AI without needing complex command-line knowledge or external cloud dependencies.
 
+[Open WebUI](https://openwebui.com/) is an extensible, feature-rich web interface designed to interact with LLMs. It provides a ChatGPT-like experience that can be self-hosted and connected to various backends, including Ollama or OpenAI-compatible APIs. With support for RAG (Retrieval-Augmented Generation), multi-modal capabilities, and robust user management, it is an excellent choice for those who want a polished, private, and highly customizable chat interface for their local or remote AI models.
+
+[Paperless-ngx](https://docs.paperless-ngx.com/) is a powerful, open-source document management system that transforms physical and digital documents into a searchable, organized archive. It automatically indexes, tags, and categorizes your files using OCR (Optical Character Recognition) and machine learning, making it easy to find specific documents within a large collection. By self-hosting Paperless-ngx, you maintain full control over your sensitive data while benefiting from an intelligent, automated workflow that simplifies paperless living.
+
+
+
 ---
 
 **Related:** [[AI Roadmap]]
-
