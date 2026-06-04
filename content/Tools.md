@@ -47,6 +47,8 @@ Ok, so these are not all AI tools but make up the components in the AI tech stac
 
 [Paperless-ngx](https://docs.paperless-ngx.com/) is a powerful, open-source document management system that transforms physical and digital documents into a searchable, organized archive. It automatically indexes, tags, and categorizes your files using OCR (Optical Character Recognition) and machine learning, making it easy to find specific documents within a large collection. By self-hosting Paperless-ngx, you maintain full control over your sensitive data while benefiting from an intelligent, automated workflow that simplifies paperless living.
 
+[N8N](https://n8n.io/) - A powerful, low-code workflow automation tool that allows you to connect various apps and services to automate complex tasks. It provides a visual interface to build workflows, making it easy to integrate different APIs, databases, and tools without extensive coding. I use it to automate data flows between my self-hosted services and other platforms.
+
 
 
 ---
