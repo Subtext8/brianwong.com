@@ -20,7 +20,7 @@ Cheers,
 
 ![[Attachments/brian-logo.png]]
 
-→ 💬[[AI Chat Contact]]
+→ 💬 [[Contact]]
 
 ---
 
