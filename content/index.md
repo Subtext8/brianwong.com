@@ -17,10 +17,9 @@ On this site, I share my thoughts on my AI experiments, my ideas and methods for
 Or perhaps connecting with like-minded people. If that sounds good to you, carry on exploring and have a nice time here. 
 
 Cheers,
+Brian
 
-![[Attachments/brian-logo.png]]
 
-→ 💬 [[Contact]]
 
 ---
 
