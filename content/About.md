@@ -10,8 +10,7 @@ comments: false
 ---
  
 > [!note]
->    Work in progress...maybe. Who cares about this section anyway?
->    Work on other content first...
+>    Work in progress...
 
 ---
 # Devoted to Life Long Learning & Training

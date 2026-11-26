@@ -29,9 +29,10 @@ We’ve entered a remarkable era where the boundary between having an idea and b
 ---
 ## Currently Working On:
 
-**Local Sovereign LLM Project**: I'm currently working on the project to host a frontier-level LLM on my own local server. The project is presently delayed as there is a [6-8 week wait ](https://www.tomshardware.com/desktops/apple-warns-mac-mini-and-mac-studio-shortages-could-last-for-months-local-ai-boom-and-memory-crunch-drive-demand-beyond-apples-manufacturing-capacity)for a custom-spec Apple Mac Mini with 64GB of RAM! This is due to the global shortage in SDRAM. In any case, the idea is to build a frontier-level LLM locally. and to make that accessible through my phone, laptop, and tablet from anywhere in the world. Stay tuned for updates on this exciting project.
+1. **Local Sovereign LLM Project**: I'm currently working on the project to run a frontier-level LLM on my own local server. Hardware is limited and costly. I think this will be a forever-project of trial and error and modular upgrades. 
+2. Creating a fleet of agents to manage each area of my life.
 
-![[Attachments/Projects.jpg]]
+
 
 
 
