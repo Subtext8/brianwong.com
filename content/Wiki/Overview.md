@@ -16,9 +16,9 @@ High-level synthesis of captured knowledge.
 
 [[Wiki/Entities/Andrej Karpathy|Andrej Karpathy]]'s idea: LLM maintains [[Wiki/Concepts/Persistent Wiki|Persistent Wiki]] from raw sources, vs [[Wiki/Concepts/RAG|RAG]].
 
-| Aspect       | RAG $[^1]$             | LLM Wiki                   |
+| Aspect       | RAG                    | LLM Wiki                   |
 | ------------ | ---------------------- | -------------------------- |
-| Retrieval    | Query-time$[^1]$       | Pre-compiled               |
+| Retrieval    | Query-time             | Pre-compiled               |
 | Accumulation | None                   | Compounding                |
 | Maintenance  | Manual/human           | LLM-automated              |
 | Scale        | Rediscovery cost grows | Touches 10-15 pages/ingest |
@@ -90,3 +90,50 @@ High-level synthesis of captured knowledge.
 Key: [[Wiki/Concepts/Knowledge Graphs|KGs]] essential; [[Wiki/Entities/WordNet|WordNet]] example explainability.
 
 [^2]: [[Wiki/Sources/The Artificial Intelligence Industry 2026]]
+
+## The Context & Meaning Stack
+[[Wiki/Sources/Is Ontology the AI Breakthrough That Actually Threatens Jobs|Ontology in AI (2026)]]
+
+Each layer fixes one gap and reveals the next — the destination is a shared model of *your* world.
+
+| Layer | Solves | Still missing |
+|-------|--------|---------------|
+| Prompt stuffing | Model sees company docs | Scale (can't send the company) |
+| [[Wiki/Concepts/RAG\|RAG]] + grounding | Right info, verifiable sources | Meaning across chunks/systems |
+| [[Wiki/Concepts/Knowledge Graphs\|KGs]] / [[Wiki/Concepts/GraphRAG\|GraphRAG]] | Relationships between things | What things mean, what's permitted |
+| [[Wiki/Concepts/MCP\|MCP]] | Standard tool/resource access | Org chart, cross-system identity |
+| Agent skills | Procedural "how to" | What exists and what can happen |
+| **[[Wiki/Concepts/Ontology\|Ontology]]** | Shared model: entities, rules, actions, permissions | Must be built and kept current |
+
+Key: ontology is connective tissue, not a replacement. As [[Wiki/Concepts/AI Agents|agents]] act autonomously, "same intelligence, completely different understanding" becomes the real competitive gap. Vendors: [[Wiki/Entities/Palantir|Palantir]], [[Wiki/Entities/Databricks|Databricks]], [[Wiki/Entities/Microsoft|Microsoft]].
+
+## Evolutionary Path of AI
+[[Wiki/Concepts/The Evolutionary Path of AI|The Evolutionary Path of AI]]
+
+Eight-level adoption ladder ([[AI Roadmap]]), with the "connective tissue" maturing at each level.
+
+| Stage | Role | Enabling innovation |
+|-------|------|---------------------|
+| 0 | Guardian | Manual verification, air-gapped systems |
+| 1–2 | Companion | Transformers, RLHF |
+| 3 | Creator | Generative media (image, audio, video) |
+| 4 | Architect | [[Wiki/Concepts/RAG\|RAG]], [[Wiki/Concepts/Context Engineering\|Context Engineering]] |
+| 5 | Builder | [[Wiki/Concepts/Vibe Coding\|Vibe Coding]], IDE integration |
+| 6 | Orchestrator | [[Wiki/Concepts/MCP\|MCP]], [[Wiki/Concepts/Agent Client Protocol\|ACP]], [[Wiki/Concepts/Multi-Agent Systems\|Multi-Agent Systems]] |
+| 7 | Pioneer | [[Wiki/Concepts/Multimodal Reasoning\|Multimodal Reasoning]], sensor fusion, edge inference |
+
+Pillars: protocol standardisation, [[Wiki/Concepts/Inference Economics\|Inference Economics]] ([[Wiki/Concepts/Three-Tier Hybrid Models\|Three-Tier Hybrid Models]]), orchestration over chatting, [[Wiki/Concepts/Physical AI\|Physical AI]].
+
+## Orchestration as a Job
+[[Wiki/Sources/Why AI Agents Orchestrators Are In High Demand|Why AI Agents Orchestrators Are In High Demand]]
+
+[[Wiki/Concepts/AI Orchestration|AI Orchestration]] = dividing work between humans and agents so whole processes complete. Job, skill and capability at once; the orchestrator is an air traffic controller, not a pilot.
+
+| Signal | Value |
+|--------|-------|
+| Orchestration/governance postings | 15× over 4 years ([[Wiki/Entities/Randstad\|Randstad]]) |
+| Banking "agent orchestration" postings | +1,700% in 2026 ([[Wiki/Entities/Draup\|Draup]]) |
+| Agentic AI skill demand vs supply | ~1,300% vs ~300% |
+| US agentic AI salary | $115k–$239k |
+
+Not a simple replacement story: agent teams need managers, so "one AI orchestrator becomes three, becomes a team." Soft skills are the career differentiator (61% of customers find them scarcer than tech skill).

@@ -24,3 +24,10 @@ draft: false
 - Agents as "interns": Fill details, humans design fundamentals.
 
 Complements vibe coding (floor) with pro rigor.
+
+## From [[Wiki/Sources/Why AI Agents Orchestrators Are In High Demand|Why AI Agents Orchestrators Are In High Demand]]
+- **Forward-deployed engineering**: embed with the customer, workshop the process (e.g. 30-step car insurance quoting), then build and orchestrate agents that remove bottlenecks.
+- Testing and control are the hardest part: "AI is not always predictable" — guardrails, repeated testing, and monitoring are core job duties.
+- Hiring signal: not CV-driven but process thinking, commercial judgment, systems and operational understanding, plus automation background; soft skills and critical thinking are scarcer than technical skills (61% of customers).
+- Frameworks in demand: [[Wiki/Concepts/MCP|MCP]], LangGraph, Semantic Kernel; connection patterns agent-to-agent and agent-to-UI.
+- See [[Wiki/Concepts/AI Orchestration|AI Orchestration]].

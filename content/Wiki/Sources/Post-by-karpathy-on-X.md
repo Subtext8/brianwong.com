@@ -17,18 +17,18 @@ In this post, Andrej Karpathy discusses the ongoing evolution of human-AI intera
 Karpathy suggests that users should ask LLMs to "structure your response as HTML" to take advantage of better information density and interactivity. He also notes that future progress will likely involve better input methods, such as pointing and gesturing.
 
 ## Key Entities
-- [[Andrej Karpathy]]
-- [[HTML]]
-- [[Markdown]]
-- [[Claude]]
-- [[Claude-Code]]
+- [[Wiki/Entities/Andrej Karpathy|Andrej Karpathy]]
+- [[Wiki/Entities/HTML|HTML]]
+- [[Wiki/Entities/Markdown|Markdown]]
+- [[Wiki/Entities/Claude|Claude]]
+- [[Wiki/Entities/Claude-Code|Claude-Code]]
 
 ## Key Concepts
-- [[Information Density]]
-- [[Interactive Artifacts]]
-- [[Human-AI Interaction]]
-- [[Neural Artifacts]]
-- [[Software 1.0]]
+- [[Wiki/Concepts/Information Density|Information Density]]
+- [[Wiki/Concepts/Interactive Artifacts|Interactive Artifacts]]
+- [[Wiki/Concepts/Human-AI Interaction|Human-AI Interaction]]
+- [[Wiki/Concepts/Neural Artifacts|Neural Artifacts]]
+- [[Wiki/Concepts/Software 1.0|Software 1.0]]
 
 ## Links
 - [Source](https://x.com/karpathy/status/2053872850101285137)

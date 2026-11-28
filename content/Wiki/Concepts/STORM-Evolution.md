@@ -5,7 +5,7 @@ date: 2026-05-10
 tags: [wiki, concept]
 description: "The evolution of the STORM system from autonomous research to human-AI collaborative discourse."
 draft: false
-related: ["[[Wiki/Entities/STORM|STORM]]", "[[Wiki/Entities/Co-STORM|Co-STORM]]"]
+related: ["[[Wiki/Entities/Stanford-STORM|STORM]]", "[[Wiki/Entities/Co-STORM|Co-STORM]]"]
 ---
 
 # STORM-Evolution

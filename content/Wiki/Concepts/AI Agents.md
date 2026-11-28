@@ -19,3 +19,9 @@ AI that reasons, plans, acts autonomously to goals (perceive-reason-act-observe 
 
 ## From [[Wiki/Sources/Ways-to-Use-AI-in-Daily-Life|Ways-to-Use-AI-in-Daily-Life]]
 - Many: prototyping, customer service, reports, invoice mgmt, etc.
+
+## From [[Wiki/Sources/Is Ontology the AI Breakthrough That Actually Threatens Jobs|Is Ontology the AI Breakthrough That Actually Threatens Jobs]]
+- Agents = tools + protocols: search a DB, read a file, call an API, create a ticket, run code, message another system (enabled by [[Wiki/Concepts/MCP|MCP]]).
+- Autonomy raises the stakes: a chatbot can be corrected, but an agent acting inside a company cannot — "the more AI moves from answering questions to making decisions and taking actions, the more important shared meaning becomes."
+- Needs [[Wiki/Concepts/Ontology|ontology]] as a map of the organisation: entities, relationships, rules, available actions (reassign, notify, rebook, request approval) and permissions.
+- Example: airline agent answering "Flight 284 delayed 3 hours — what downstream problems, what should we do?"

@@ -25,6 +25,6 @@ Coined by [[Wiki/Entities/Andrej Karpathy|Andrej Karpathy]]:[[Wiki/Sources/Andre
 Links to Software 3.0 prompting.
 
 ## From [[Wiki/Sources/Ways-to-Use-AI-in-Daily-Life|Ways-to-Use-AI-in-Daily-Life]]
-- Tools: [[Cursor]], Windsurf, [[Wiki/Entities/Claude-Code|Claude Code]], Lovable, Vault, Replit, Firebase Studio.
+- Tools: [[Wiki/Entities/Cursor|Cursor]], Windsurf, [[Wiki/Entities/Claude-Code|Claude Code]], Lovable, Vault, Replit, Firebase Studio.
 - Uses: Small automations (YouTube scraping), custom apps (Pomodoro/finance trackers), client demos.
 - Beginner → advanced progression.

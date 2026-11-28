@@ -18,14 +18,14 @@ Video lists **101 ways** grouped by category, from simple (image ID) to advanced
 
 ## Summary
 - **Tool Categories**:
-  - Chatbots: [[ChatGPT]], [[Gemini]], [[Claude]]
+  - Chatbots: [[Wiki/Entities/ChatGPT|ChatGPT]], [[Wiki/Entities/Gemini|Gemini]], [[Wiki/Entities/Claude|Claude]]
   - Agents/Apps: [[Wiki/Entities/Perplexity|Perplexity]], [[Wiki/Entities/NotebookLM|NotebookLM]], [[Wiki/Entities/n8n|n8n]], [[Wiki/Entities/OpenAI-Agents-SDK|OpenAI Agents SDK]], [[Wiki/Entities/Madness|Madness]]
   - Vibe Coding: [[Wiki/Entities/Cursor|Cursor]], [[Wiki/Entities/Windsurf|Windsurf]], [[Wiki/Entities/Claude-Code|Claude Code]], [[Wiki/Entities/Lovable|Lovable]], [[Wiki/Entities/Vault|Vault]], [[Wiki/Entities/Replit|Replit]], [[Wiki/Entities/Firebase-Studio|Firebase Studio]]
 - **Categories & Examples**:
 
 | Category | Key Use Cases |
 |----------|---------------|
-| General Productivity | Object ID from photos, troubleshooting (e.g., leaky toilet), targeted searches/itineraries, frameworks (Eisenhower matrix, first principles), slide/video summaries [[Wiki/Entities/Google-AI-Studio\|Google AI Studio]] |
+| General Productivity | Object ID from photos, troubleshooting (e.g., leaky toilet), targeted searches/itineraries, frameworks (Eisenhower matrix, first principles), slide/video summaries [[Wiki/Entities/Google AI Studio\|Google AI Studio]] |
 | Work Productivity | To-do prioritization, task bookmarking, email/report writing/editing, brainstorming (answers leveling), voice roleplay, UI navigation (Photoshop), real-time narration, PDF analysis, PRDs/presentations, data extraction/tables/dashboards |
 | Daily Life | Outfit/meal ideas, interior design, health guidance |
 | Personal Finances | Plans/investments, expense tracking agents, receipt categorization |
@@ -35,19 +35,19 @@ Video lists **101 ways** grouped by category, from simple (image ID) to advanced
 | Misc | Image editing, cartoons/manga, Perplexity API workflows, vibe-coded apps/automations/agents (lead gen, etc.) |
 
 ## Key Entities
-- [[Perplexity]] (search + deep research/API)
-- [[NotebookLM]] (learning/podcasts)
-- [[Claude]] / [[Wiki/Entities/Claude-Code|Claude Code]] (presentations/dashboards)
-- [[Cursor]] / Windsurf (vibe coding)
-- [[n8n]] (agentic workflows)
+- [[Wiki/Entities/Perplexity|Perplexity]] (search + deep research/API)
+- [[Wiki/Entities/NotebookLM|NotebookLM]] (learning/podcasts)
+- [[Wiki/Entities/Claude|Claude]] / [[Wiki/Entities/Claude-Code|Claude Code]] (presentations/dashboards)
+- [[Wiki/Entities/Cursor|Cursor]] / Windsurf (vibe coding)
+- [[Wiki/Entities/n8n|n8n]] (agentic workflows)
 - [[Wiki/Entities/Google AI Studio|Google AI Studio]] (video transcripts/streaming)
-- [[HubSpot]] (prompt guide sponsor)
+- [[Wiki/Entities/HubSpot|HubSpot]] (prompt guide sponsor)
 - [[Wiki/Entities/Alex-Hormozi|Alex Hormozi]] (framework)
 
 ## Key Concepts
 - [[Wiki/Concepts/Prompt Engineering|Prompt Engineering]]
-- [[Vibe Coding]]
-- [[AI Agents]]
+- [[Wiki/Concepts/Vibe Coding|Vibe Coding]]
+- [[Wiki/Concepts/AI Agents|AI Agents]]
 - Eisenhower matrix, first principles thinking, answers leveling, Socratic method
 
 #### Sources

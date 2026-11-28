@@ -14,7 +14,7 @@ draft: false
 This paper introduces **STORM** (Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking), an LLM-based system designed to automate the "pre-writing" stage of generating grounded, long-form articles (like Wikipedia pages). The system addresses the challenges of researching a topic and preparing an outline from scratch.
 
 ## Key Entities
-- [[Wiki/Entities/STORM|STORM]]
+- [[Wiki/Entities/Stanford-STORM|STORM]]
 - [[Wiki/Entities/FreshWiki|FreshWiki]] (Dataset)
 - [[Wiki/Entities/Yijia Shao|Yijia Shao]]
 - [[Wiki/Entities/Yucheng Jiang|Yucheng Jiang]]

@@ -35,4 +35,8 @@ While current PKEs focus on retrieval and synthesis, the next evolution involves
 - **Hybrid Usage:** Use the web for general logic and facts, and the local vault for personal history and project-specific context.
 
 ---
-- Related: [[RAG]], [[AI Roadmap]], [[Obsidian]]
+- Related: [[Wiki/Concepts/RAG|RAG]], [[AI Roadmap]], [[Wiki/Entities/Obsidian|Obsidian]]
+
+## Related
+- [[AI Roadmap]] — Level 4 (The Architect) is exactly this second-brain pattern: grounding AI in private data via RAG and curated notes.
+- [[Wiki/Concepts/The Evolutionary Path of AI]] — places the Personal Knowledge Engine inside a wider adoption ladder.

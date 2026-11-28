@@ -17,11 +17,16 @@ The path to mainstreaming AI is not just about better models; it is about the ma
 
 | Stage | Role | Primary Capability | Enabling Innovation |
 | :--- | :--- | :--- | :--- |
+| **0** | Guardian | Analog Sovereignty | Manual verification, air-gapped systems |
 | **1-2** | Companion | Knowledge Retrieval | Transformers, RLHF |
-| **3-4** | Architect | Grounding | RAG, Context Engineering |
+| **3** | Creator | Media Orchestration | Generative media (image, audio, video) |
+| **4** | Architect | Grounding | RAG, Context Engineering |
 | **5** | Builder | Software Synthesis | Vibe Coding, IDE Integration |
 | **6** | Orchestrator | Autonomous Execution | MCP, ACP, Multi-Agent Systems |
 | **7** | Pioneer | Physical Agency | Multimodal Reasoning, Sensor Fusion, Edge-Native Inference |
+
+> [!warning] Level numbering
+> Stages here follow [[AI Roadmap]], which inserts **Level 3: The Creator** (media generation). Earlier versions of this page skipped Creator and shifted Architect to 3, Builder to 4 and Orchestrator to 5. When reading older notes, check which numbering they use.
 
 ## The Pillars of Mainstreaming AI
 For these stages to become the mainstream standard, critical shifts must occur:
@@ -50,5 +55,12 @@ While Level 6 focuses on the digital workforce, Level 7 represents the convergen
 The path to Level 7 is the path to **AI as a Utility**. Just as electricity became an invisible, foundational utility, AI is moving toward becoming an autonomous, secure, and private infrastructure layer. The "bleeding edge" is already here—the challenge now is scaling these agentic workflows to the mainstream.
 
 > [!note] Connections
-> - See [[AI Roadmap]] for your current position.
+> - See [[AI Roadmap]] for your current position — the 8-level adoption ladder (Level 0 Guardian → Level 7 Pioneer) this page builds on.
 > - See [[Wiki/Concepts/Agentic AI]] for the foundation of autonomous loops.
+
+## Related
+- [[AI Roadmap]] — the original adoption ladder with mindsets, core skills and tools per level.
+- [[Wiki/Concepts/Agentic Engineering]] — Level 5–6 practice.
+- [[Wiki/Concepts/AI Orchestration]] — Level 6 as a job.
+- [[Wiki/Concepts/Multi-Agent Systems]] — the agent teams being orchestrated.
+- [[Wiki/Concepts/Physical AI]] — Level 7.

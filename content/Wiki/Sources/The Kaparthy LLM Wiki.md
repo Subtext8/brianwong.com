@@ -28,11 +28,11 @@ draft: false
 
 ## Key Entities
 - [[Wiki/Entities/Obsidian| Obsidian]]
-- [[Andrej Karpathy]]
-- [[Vannevar Bush]]
-- [[Memex]]
+- [[Wiki/Entities/Andrej Karpathy|Andrej Karpathy]]
+- [[Wiki/Entities/Vannevar Bush|Vannevar Bush]]
+- [[Wiki/Entities/Memex|Memex]]
 
 ## Key Concepts
-- [[LLM-Wiki]]
-- [[RAG]]
-- [[Persistent Wiki]]
+- [[Wiki/Concepts/LLM-Wiki|LLM-Wiki]]
+- [[Wiki/Concepts/RAG|RAG]]
+- [[Wiki/Concepts/Persistent Wiki|Persistent Wiki]]

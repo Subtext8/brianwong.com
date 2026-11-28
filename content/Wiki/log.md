@@ -49,7 +49,7 @@ draft: false
 
 ## [2026-05-05] ingest | Ways to Use AI in Daily Life
 - Created: [[Wiki/Sources/Ways-to-Use-AI-in-Daily-Life|Ways-to-Use-AI-in-Daily-Life]]
-- New Entities: [[Wiki/Entities/Perplexity|Perplexity]], [[Wiki/Entities/NotebookLM|NotebookLM]], [[Wiki/Entities/n8n|n8n]], [[Wiki/Entities/Google-AI-Studio|Google-AI-Studio]], [[Wiki/Entities/Windsurf|Windsurf]], [[Wiki/Entities/Claude-Code|Claude-Code]], [[Wiki/Entities/HubSpot|HubSpot]], [[Wiki/Entities/Alex-Hormozi|Alex-Hormozi]]
+- New Entities: [[Wiki/Entities/Perplexity|Perplexity]], [[Wiki/Entities/NotebookLM|NotebookLM]], [[Wiki/Entities/n8n|n8n]], [[Wiki/Entities/Google AI Studio|Google AI Studio]], [[Wiki/Entities/Windsurf|Windsurf]], [[Wiki/Entities/Claude-Code|Claude-Code]], [[Wiki/Entities/HubSpot|HubSpot]], [[Wiki/Entities/Alex-Hormozi|Alex-Hormozi]]
 - Appended to: [[Wiki/Concepts/Vibe Coding|Vibe Coding]], [[Wiki/Concepts/AI Agents|AI Agents]]
 - Updated: [[Wiki/TOC|TOC]]
 - Notes: YouTube video (101 use cases); practical expansion on tools/applications.
@@ -131,3 +131,24 @@ draft: false
 ## [2026-05-14] ingest | Post by @karpathy on X
 - Updated: [[Wiki/Sources/Post-by-karpathy-on-X|Post by @karpathy on X]], [[Wiki/Entities/Claude|Claude]]
 - Notes: Ingested Andrej Karpathy's post on the evolution of AI input/output and the preference for HTML as an output format.
+
+## [2026-11-28] ingest | Is Ontology the AI Breakthrough That Actually Threatens Jobs
+- Created source: [[Wiki/Sources/Is Ontology the AI Breakthrough That Actually Threatens Jobs|Is Ontology the AI Breakthrough That Actually Threatens Jobs]]
+- New Entities: [[Wiki/Entities/Palantir|Palantir]], [[Wiki/Entities/Databricks|Databricks]], [[Wiki/Entities/Microsoft|Microsoft]]
+- New Concepts: [[Wiki/Concepts/Ontology|Ontology]], [[Wiki/Concepts/GraphRAG|GraphRAG]]
+- Updated: [[Wiki/Concepts/Knowledge Graphs|Knowledge Graphs]], [[Wiki/Concepts/RAG|RAG]], [[Wiki/Concepts/MCP|MCP]], [[Wiki/Concepts/AI Agents|AI Agents]], [[Wiki/TOC|TOC]], [[Wiki/Overview|Overview]]
+- Notes: Context stack RAG → KG/GraphRAG → MCP → skills → ontology; ontology as connective tissue for agentic AI. Added "Context & Meaning Stack" section to Overview.
+
+## [2026-11-28] lint | Wiki hygiene pass
+- Merged: `Entities/Google-AI-Studio` → [[Wiki/Entities/Google AI Studio|Google AI Studio]] (deleted duplicate); `Entities/STORM` → [[Wiki/Entities/Stanford-STORM|Stanford-STORM]] (alias `STORM`, deleted duplicate); refs updated in [[Wiki/Sources/Ways-to-Use-AI-in-Daily-Life|Ways-to-Use-AI-in-Daily-Life]], [[Wiki/Sources/STORM-paper|STORM-paper]], [[Wiki/Concepts/STORM-Evolution|STORM-Evolution]]
+- Orphans resolved: [[Wiki/Concepts/The Evolutionary Path of AI|The Evolutionary Path of AI]] now linked from [[Wiki/Overview|Overview]]; [[Wiki/Sources/KG Edge Types Diagram|KG Edge Types Diagram]] linked from [[Wiki/Concepts/KG Relationships|KG Relationships]]
+- [[Wiki/TOC|TOC]]: added all previously unlisted entities/concepts/sources (58 pages)
+- Fixed: escaped-pipe links in [[Wiki/Concepts/Jagged Intelligence|Jagged Intelligence]]; bare basename links converted to full paths across Sources/Concepts/Entities; dangling `[^1]` footnote markers removed in Overview; `source:` frontmatter path in [[Wiki/Sources/10-AI-Concepts|10-AI-Concepts]]
+- Notes: Zero orphans, zero dead TOC entries remaining. Open item: `[[AI Roadmap]]` referenced by Evolutionary Path and Personal Knowledge Engine has no page.
+
+## [2026-11-28] ingest | Why AI Agents Orchestrators Are In High Demand
+- Created source: [[Wiki/Sources/Why AI Agents Orchestrators Are In High Demand|Why AI Agents Orchestrators Are In High Demand]]
+- New Entities: [[Wiki/Entities/NiCE|NiCE]], [[Wiki/Entities/Draup|Draup]], [[Wiki/Entities/Randstad|Randstad]], [[Wiki/Entities/CNBC|CNBC]]
+- New Concepts: [[Wiki/Concepts/AI Orchestration|AI Orchestration]]
+- Updated: [[Wiki/Concepts/Multi-Agent Systems|Multi-Agent Systems]], [[Wiki/Concepts/Agentic Engineering|Agentic Engineering]], [[Wiki/Entities/Amazon|Amazon]], [[Wiki/TOC|TOC]], [[Wiki/Overview|Overview]]
+- Notes: CNBC segment on AI orchestration as job/skill/capability; demand data (15× postings, +1,700% banking, 1,300% vs 300% supply), pay $115k–$239k, forward-deployed engineering, soft-skill scarcity, Glassdoor negativity 15%→53%.

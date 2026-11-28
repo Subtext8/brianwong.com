@@ -32,6 +32,8 @@ The 10 relationships below exemplify a robust KG schema:
 
 ![[Wiki/Raw/KG Relationships Diagram|10 edge types with colors/directions/weights]] – Source: https://youtu.be/z02Y-1OvWSM?si=Xi9Q_R7RwpElYCHI
 
+Diagram page: [[Wiki/Sources/KG Edge Types Diagram|KG Edge Types Diagram]]
+
 ## Role in KGs
 - **AI Symbiosis**: Fuel Graph Data Science predictions, explainable reasoning.
 - **Design Principles**: Extend with domain ontologies (e.g., RDF, schema.org).

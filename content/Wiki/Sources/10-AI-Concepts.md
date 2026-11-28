@@ -2,7 +2,7 @@
 title: 10-AI-Concepts
 date: 2026-05-03
 speaker: Maddie
-source: Wiki/Raw/10-AI-Concepts.md
+source: Wiki/Raw/10-AI-Concepts
 video-url: https://www.youtube.com/watch?v=5DtjQrROUzY?start=108
 type: video
 tags:

@@ -27,8 +27,8 @@ LLM performance is "jagged": excels in specific tasks (e.g. coding certain patte
 | [[Wiki/Concepts/Vibe Coding\|Vibe Coding]] | Leverages peaks. |
 
 ## Sources/References
-- [[Wiki/Raw/The Kaparthy LLM Wiki\|The Kaparthy LLM Wiki]]
+- [[Wiki/Raw/The Kaparthy LLM Wiki|The Kaparthy LLM Wiki]]
 
 > [!note] Connections
-> - Complements [[Wiki/Concepts/LLM-Wiki\|LLM-Wiki]]: Tailor ingests to peaks.
-> - Vs [[Wiki/Concepts/Agentic AI\|Agentic AI]]: Agents smooth jaggedness via tools.
+> - Complements [[Wiki/Concepts/LLM-Wiki|LLM-Wiki]]: Tailor ingests to peaks.
+> - Vs [[Wiki/Concepts/Agentic AI|Agentic AI]]: Agents smooth jaggedness via tools.
